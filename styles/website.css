@@ -1,14 +1,14 @@
 /* page background */ body { background-color: #F1F1F1; font-size: 12px;}
 
 /* heading fonts */
-@import 'https://fonts.googleapis.com/css?family=Consolas';
-h1 { font-size: 52px; font-family: "Consolas";}
-h2 { font-size: 42px; font-family: "Consolas";}
-h3 { font-size: 32px; font-family: "Consolas";}
+@import 'https://fonts.googleapis.com/css?family=Inconsolata';
+h1 { font-size: 52px; font-family: "Inconsolata";}
+h2 { font-size: 42px; font-family: "Inconsolata";}
+h3 { font-size: 32px; font-family: "Inconsolata";}
 
 
-/* body font */p { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 12px; }
-body { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 12px;}
+/* body font */p { font-family: "Inconsolata", sans-serif; font-weight: 200; font-size: 12px; }
+body { font-family: "Inconsolata", sans-serif; font-weight: 200; font-size: 12px;}
 
 /* table of contents */.book-summary{ background-color: #f0244d;}
 
@@ -17,7 +17,7 @@ body { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 12px;}
 }
 
 /* side menu */
-.book-summary {color: white; font-size: 18px; font-weight: 800;}
+.book-summary {color: white; font-size: 24px; font-weight: 800;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }

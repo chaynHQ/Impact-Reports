@@ -7,8 +7,8 @@ h2 { font-size: 42px; font-family: "Consolas";}
 h3 { font-size: 32px; font-family: "Consolas";}
 
 
-/* body font */p { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 14px; }
-body { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 14px;}
+/* body font */p { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 12px; }
+body { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 12px;}
 
 /* table of contents */.book-summary{ background-color: #f0244d;}
 
@@ -17,7 +17,7 @@ body { font-family: "Consolas", sans-serif; font-weight: 200; font-size: 14px;}
 }
 
 /* side menu */
-.book-summary {font-family:  color: black; font-size: 18px; font-weight: 300;}
+.book-summary {color: white; font-size: 18px; font-weight: 800;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }

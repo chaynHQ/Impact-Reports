@@ -1,4 +1,4 @@
-/* page background */ body { background-color: #F1F1F1; font-size: 12px;}
+/* page background */ body { background-color: #F1F1F1;}
 
 /* heading fonts */
 @import 'https://fonts.googleapis.com/css?family=Inconsolata';
@@ -7,8 +7,7 @@ h2 { font-size: 42px; font-family: "Inconsolata";}
 h3 { font-size: 32px; font-family: "Inconsolata";}
 
 
-/* body font */p { font-family: "Inconsolata", sans-serif; font-size: 12px; }
-body { font-family: "Inconsolata", sans-serif; font-size: 12px;}
+/* body font */p { font-family: "Inconsolata", Helvetica, sans-serif; font-size: 12px; }
 
 /* table of contents */.book-summary{ background-color: #f0244d;}
 

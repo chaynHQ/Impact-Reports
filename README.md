@@ -1,4 +1,4 @@
-![](/assets/CHAYN IMPACT2016.png)
+![](/assets/2016.png)
 
 In many ways 2016 was a difficult year for the women of the world. Indeed the social, political and economic challenges in the countries where we work often made us feel helpless but we charged on, doing what we can to support women and girls.
 

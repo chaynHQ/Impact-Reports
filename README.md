@@ -7,7 +7,7 @@ However, at Chayn our design philosophy of designing with and not for, and our a
 **We had a smashing year! 
 **
 Across all Chayn projects we reached more than 
-## 161 000 page views
+## 164 000 page views
 ### 42 000 people
 ### across 15 countries. 
 

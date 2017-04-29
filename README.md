@@ -143,7 +143,7 @@ From the insights gathered, we identified that there were four distinctive stage
 
 Through teamwork, brainstorming and learning new tools, our partnership has proved that it&#39;s possible for four organisations to successfully work together in the third sector. We thoroughly enjoyed working together and we take away a lot of memories and knowledge that we can apply to Chayn projects internally.
 
-# 2.3 Projects
+## 2.3 Projects
 
 ![](/assets/ammal.jpg)
 
@@ -153,7 +153,7 @@ Early in the year we launched Ammal: a peer-to-peer women&#39;s development netw
 
 In November, we launched the Pakistan chapter of Ammal with a bootcamp of four workshops in Lahore. Our aim was to provide equitable access to career skills, tailored to the unique socioeconomic conditions of Pakistan. We started with a small pilot group of 10 female students between the ages of 18-24 years from a conservative women&#39;s college. We were joined by more participants from 2 other institutes over the course of the bootcamp-including teachers and scientists! We provided them a crash course on career planning, professional development, CV writing, interview training, and the basic digital skills that support these. We kept it as hands-on as possible and encouraged discussion, which helped participants open up about the particular discrimination they face as women who wish to pursue a career in a patriarchal society. This was followed by brainstorming and peer advice on ways to counter this discrimination. It was heartening to see this kind of grassroots feminism in action. At the end of the bootcamp, the attendees expressed much more confidence in their career skills, and were gutted there weren&#39;t more classes coming up! They also volunteered as speakers for future bootcamps.
 
-# 2.4 Toolkits
+## 2.4 Toolkits
 
 ![](/assets/privacy.jpg)
 
@@ -194,7 +194,7 @@ In addition to these awards, our work and our volunteers also received lots of c
 
 
 
-# Challenges
+# 4. Challenges
 
 ![](/assets/challenges.jpg)
 

@@ -16,7 +16,7 @@ body, * { font-family: "Courier New", Helvetica, sans-serif; font-size: 12px; }
 }
 
 /* side menu */
-.book-summary {color: white; font-size: 21px; font-weight: 800;}
+.book-summary {color: white; font-size: 41px; font-weight: 800;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }

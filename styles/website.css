@@ -3,8 +3,8 @@
 /* heading fonts */
 @import 'https://fonts.googleapis.com/css?family=Oswald';
 h1 { font-size: 52px; font-family: "Oswald";}
-h2 { font-size: 42px; font-family: "Oswald";}
-h3 { font-size: 32px; font-family: "Oswald";}
+h2 { font-size: 46px; font-family: "Oswald"; color: #545454;}
+h3 { font-size: 36px; font-family: "Oswald"; color: #4EF5B2;}
 /* body font */p { font-family: "Courier New", Helvetica, sans-serif; font-size: 12px; }
 
 /* table of contents */.book-summary{ background-color: #f0244d;}

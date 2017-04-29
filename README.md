@@ -4,9 +4,14 @@ In many ways 2016 was a difficult year for the women of the world. Indeed the so
 
 However, at Chayn our design philosophy of designing with and not for, and our agile approach to development, has always helped us maintain the belief that even small ripples can make big waves and throughout 2016 we witnessed the impact of the ripples we have been making over the last 3 years start to hit home as bigger-than-ever waves. This report goes into considerable detail about how we have achieved this bigger and more sustainable impact on women experiencing violence and oppression. We hope that you find the report inspiring and enlightening, but recognise time is precious so if you would like to only see the numbers, or the &#39;what&#39; aspect of our impact, see our metrics below.
 
-We had a smashing year! Across all Chayn projects we reached more than
+**We had a smashing year! 
+**
+Across all Chayn projects we reached more than 
+## 161 000 page views
+### 42 000 people
+### across 15 countries. 
 
-42 000, 161 000, with people accessing our resources from more than 15 countries. That&#39;s what we can track online but in 2016 we also had more direct contact with women using our services, including 86 students who attended our Ammal programmes and 2000 people who used Snapcounsellors. Our growth wasn&#39;t as big as we expected but that&#39;s because we spent the latter half of 2016 focusing on improving our internal processes to enable us to be more efficient and effective in 2017.
+That&#39;s what we can track online but in 2016 we also had more direct contact with women using our services, including 86 students who attended our Ammal programmes and 2000 people who used Snapcounsellors. Our growth wasn&#39;t as big as we expected but that&#39;s because we spent the latter half of 2016 focusing on improving our internal processes to enable us to be more efficient and effective in 2017.
 
 Top 20 countries for our projects
 ![](/assets/Screen Shot 2017-04-20 at 01.24.20.png)
@@ -107,7 +112,7 @@ In 2017, we&#39;ll be focusing on improving our law and divorce section and enga
 
 
 
-## Collaboration
+## 2.3 Collaboration
 
 ![](/assets/collaboration.jpg)
 
@@ -138,7 +143,7 @@ From the insights gathered, we identified that there were four distinctive stage
 
 Through teamwork, brainstorming and learning new tools, our partnership has proved that it&#39;s possible for four organisations to successfully work together in the third sector. We thoroughly enjoyed working together and we take away a lot of memories and knowledge that we can apply to Chayn projects internally.
 
-# 2.3 Projects
+## 2.3 Projects
 
 ![](/assets/ammal.jpg)
 
@@ -148,7 +153,7 @@ Early in the year we launched Ammal: a peer-to-peer women&#39;s development netw
 
 In November, we launched the Pakistan chapter of Ammal with a bootcamp of four workshops in Lahore. Our aim was to provide equitable access to career skills, tailored to the unique socioeconomic conditions of Pakistan. We started with a small pilot group of 10 female students between the ages of 18-24 years from a conservative women&#39;s college. We were joined by more participants from 2 other institutes over the course of the bootcamp-including teachers and scientists! We provided them a crash course on career planning, professional development, CV writing, interview training, and the basic digital skills that support these. We kept it as hands-on as possible and encouraged discussion, which helped participants open up about the particular discrimination they face as women who wish to pursue a career in a patriarchal society. This was followed by brainstorming and peer advice on ways to counter this discrimination. It was heartening to see this kind of grassroots feminism in action. At the end of the bootcamp, the attendees expressed much more confidence in their career skills, and were gutted there weren&#39;t more classes coming up! They also volunteered as speakers for future bootcamps.
 
-# 2.4 Toolkits
+## 2.4 Toolkits
 
 ![](/assets/privacy.jpg)
 
@@ -189,7 +194,7 @@ In addition to these awards, our work and our volunteers also received lots of c
 
 
 
-# Challenges
+# 4. Challenges
 
 ![](/assets/challenges.jpg)
 

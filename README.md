@@ -4,9 +4,14 @@ In many ways 2016 was a difficult year for the women of the world. Indeed the so
 
 However, at Chayn our design philosophy of designing with and not for, and our agile approach to development, has always helped us maintain the belief that even small ripples can make big waves and throughout 2016 we witnessed the impact of the ripples we have been making over the last 3 years start to hit home as bigger-than-ever waves. This report goes into considerable detail about how we have achieved this bigger and more sustainable impact on women experiencing violence and oppression. We hope that you find the report inspiring and enlightening, but recognise time is precious so if you would like to only see the numbers, or the &#39;what&#39; aspect of our impact, see our metrics below.
 
-We had a smashing year! Across all Chayn projects we reached more than
+**We had a smashing year! 
+**
+Across all Chayn projects we reached more than 
+## 161 000 page views
+### 42 000 people
+### across 15 countries. 
 
-42 000, 161 000, with people accessing our resources from more than 15 countries. That&#39;s what we can track online but in 2016 we also had more direct contact with women using our services, including 86 students who attended our Ammal programmes and 2000 people who used Snapcounsellors. Our growth wasn&#39;t as big as we expected but that&#39;s because we spent the latter half of 2016 focusing on improving our internal processes to enable us to be more efficient and effective in 2017.
+That&#39;s what we can track online but in 2016 we also had more direct contact with women using our services, including 86 students who attended our Ammal programmes and 2000 people who used Snapcounsellors. Our growth wasn&#39;t as big as we expected but that&#39;s because we spent the latter half of 2016 focusing on improving our internal processes to enable us to be more efficient and effective in 2017.
 
 Top 20 countries for our projects
 ![](/assets/Screen Shot 2017-04-20 at 01.24.20.png)
@@ -107,7 +112,7 @@ In 2017, we&#39;ll be focusing on improving our law and divorce section and enga
 
 
 
-## Collaboration
+## 2.3 Collaboration
 
 ![](/assets/collaboration.jpg)
 

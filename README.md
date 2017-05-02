@@ -212,7 +212,7 @@ As we continued to develop guides and public information we grappled with the ch
 
 # 5. Special Thanks
 
-**Finally, and in many ways most importantly,** [**we celebrated the tireless contribution of Nida**](https://docs.google.com/document/d/1HOkrEHUuus1KFsjdpdQmL5aZWzAJv4zHlzZL6kO-bZk/edit) **.** Some of you may have met her or seen her online or know her as the founder of Chayn India.We can&#39;t imagine Chayn without Nida and as she transitions on to new things it will be a difficult transition for us. Thankfully, with her help, we have built a strong foundation of inclusion and support. Her dedication and energy is infectious and was fundamental in creating the atmosphere of sisterhood and fun that makes Chayn so dynamic. Nida will always be our Chayn soul sister. We wish her the best of luck in her projects!
+**Finally, and in many ways most importantly,** [**we celebrated the tireless contribution of Nida**](https://docs.google.com/document/d/1HOkrEHUuus1KFsjdpdQmL5aZWzAJv4zHlzZL6kO-bZk/edit). Some of you may have met her or seen her online or know her as the founder of Chayn India.We can&#39;t imagine Chayn without Nida and as she transitions on to new things it will be a difficult transition for us. Thankfully, with her help, we have built a strong foundation of inclusion and support. Her dedication and energy is infectious and was fundamental in creating the atmosphere of sisterhood and fun that makes Chayn so dynamic. Nida will always be our Chayn soul sister. We wish her the best of luck in her projects!
 
 
 
@@ -252,7 +252,6 @@ We participated in more **talks and events** to increase Chayn&#39;s visibility 
 - [How can tech solutions help women and girl refugee health?](https://medium.com/@charjsm/how-can-tech-solutions-help-women-and-girl-refugee-health-429495e0b5ec#.e9zbdkz1p) [Medium]
 - [#MaybeHeDoesntHitYou: Heartbreaking accounts of emotional abuse from survivors](https://medium.com/@chayn/maybehedoesnthityou-heartbreaking-accounts-of-emotional-abuse-from-survivors-e476899cb7be#.gwwnzafol) [Medium]
 - [How chronic illness communities support each other online](https://medium.com/@TheRehn/i-recently-watched-hera-hussain-s-tedx-talk-on-youtube-about-how-women-are-using-the-internet-to-1cc8a38b2e07#.n0z1seix1) [Medium]
-
 - TATA Consultancy Services&#39; [Case study on Chayn Labs](http://sites.tcs.com/generation-direct/case-studies/hera-hussain/)
 - [It is not okay to compromise on abuse, even if you&#39;re married!](http://blogs.tribune.com.pk/story/32467/it-is-not-okay-to-compromise-on-abuse-even-if-youre-married/) [The Express Tribune]
 - [Up and Coming: Hera Hussain of Chayn](http://www.thirdsector.co.uk/coming-hera-hussain-chayn/management/article/1391836) [Third Sector]

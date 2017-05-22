@@ -1,13 +1,14 @@
 /* page background */ body { background-color: #FAFAFA;}
 
 /* heading fonts */
-@import 'https://fonts.googleapis.com/css?family=Oswald';
-h1 { font-size: 2.5em; font-family: "Oswald"; text-transform: uppercase;}
-h2 { font-size: 2em; font-family: "Oswald"; color: #d16544;}
-h3 { font-size: 1.5em; font-family: "Oswald"; color: #52bf91;}
+@import 'https://fonts.googleapis.com/css?family=Homemade+Apple';
+@import 'https://fonts.googleapis.com/css?family=Fredoka+One';
+h1 { font-size: 2.5em; font-family: "Homemade+Apple"; text-transform: uppercase;}
+h2 { font-size: 2em; font-family: "Fredoka+One"; color: #d16544;}
+h3 { font-size: 1.5em; font-family: "Fredoka+One"; color: #52bf91;}
 
 /* body font */ 
-body, * { font-family: "Courier", Helvetica, sans-serif; font-size: 12px; }
+body, * { font-family: "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; }
 
 /* table of contents */.book-summary{ background-color: #f0244d;}
 

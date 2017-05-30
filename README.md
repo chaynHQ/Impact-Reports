@@ -13,7 +13,6 @@ Across all Chayn projects we reached more than
 
 This bring our total reach from 2013 till now to
 ## 325 000 page views
-### 117 900 page views
 ### 91 600 people
 
 That&#39;s what we can track online but in 2016 we also had more direct contact with women using our services, including 86 students who attended our Ammal programmes and 2000 people who used Snapcounsellors. Our growth wasn&#39;t as big as we expected but that&#39;s because we spent the latter half of 2016 focusing on improving our internal processes to enable us to be more efficient and effective in 2017.

@@ -14,15 +14,15 @@ Like always, we work hard on our impact report to share not only our successes b
 
 **Across all of Chayn sites and projects, we reached a whopping: **
 
-404, 496 pageviews 
+#### 404, 496 pageviews 
 
-114, 590 unique visitors
+#### 114, 590 unique visitors
 
 **This brings our sum total from 2013 till now to:**
 
-722, 662 pageviews
+### 722, 662 pageviews
 
-202, 173 people
+### 202, 173 people
 
 Here's hoping we cross 1 million pageviews by 2018 and help more people facing abuse with our guides and toolkits!
 
@@ -44,8 +44,6 @@ Something a little different than usual, we collaborated on the viral [Snap Coun
 
 
 ## The Good Friend Guide
-
-![](/assets/listen.gif)
 
 On May 23, 2017, we launched our [Good Friend Guide](https://chayn.gitbooks.io/the-good-friend-guide/content/) to help people reach out to their loved ones who are in an abusive relationship. 
 

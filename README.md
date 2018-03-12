@@ -1,4 +1,6 @@
-## Impact Report 2017 -
+# Impact Report 2017
+
+![](/assets/Cover-2017.JPG)
 
 In a lot of ways, 2017 has been a very big year for feminism and women all around the globe. From the global movement #MeToo becoming [Time's Person of the Year](http://time.com/time-person-of-the-year-2017-silence-breakers/) and Merriam Webster [coining 'feminism'](https://www.merriam-webster.com/words-at-play/word-of-the-year-2017-feminism) as the word of the year, to Saudi Arabia finally [lifting its ban on women driving](https://www.nytimes.com/2017/09/26/world/middleeast/saudi-arabia-women-drive.html) and women of colour reclaiming political and feminist spaces, it's been glorious.
 
@@ -38,10 +40,12 @@ Something a little different than usual, we collaborated on the viral [Snap Coun
 
 ## Our 2017 Impact: The Good, The Bad & The Growth
 
- 
+![](/assets/chayn_chai.gif)
 
 
 ## The Good Friend Guide
+
+![](/assets/listen.gif)
 
 On May 23, 2017, we launched our [Good Friend Guide](https://chayn.gitbooks.io/the-good-friend-guide/content/) to help people reach out to their loved ones who are in an abusive relationship. 
 
@@ -58,6 +62,8 @@ Since launching in May this year, the Good Friend Guide has been accessed 4,276 
 
 ### Manipulation is Abuse
 
+![](/assets/pulling_my_strings.gif)
+
 In June 2017, we launched a new guide called [Manipulation is Abuse](https://chayn.gitbooks.io/manipulation-is-abuse/content/), which identifies and tackles controlling behaviours and emotional abuse. While physical abuse gets a lot of attention,  we are still far from identifying psychological and emotional abuse as real problems.  
 
 One central aspect of the guide is to help survivors and friends of survivors identify what types of behaviours and feelings define a healthy (or unhealthy) relationship. It also tackles 'what manipulation looks like' by giving examples of manipulative behaviours: isolation, financial control, guilt-tripping, gaslighting etc. We incorporated relevant language when describing the emotional abuse, because women often expect violence to manifest itself in physical forms, and our tone had to accommodate and illustrate ways a victim or survivor would perceive manipulative actions.
@@ -66,6 +72,8 @@ Since its launch in June, our Manipulation is Abuse guide has been accessed 3,57
 
 
 ### Tech Vs. Abuse & Soul Medicine
+
+![](/assets/Photo 02-02-2018, 17 40 36.jpg)
 
 Our [Tech Vs. Abuse](https://www.techvsabuse.info/) project is a collaboration between four organisations - Chayn, [Snook](https://wearesnook.com), [SafeLives](safelives.org.uk) and [Comic Relief](https://www.comicrelief.com) - to find out what role digital technologies can play in helping to support people affected by domestic abuse.
 
@@ -83,11 +91,12 @@ For our first prototype, we translated our course on the biology of the human bo
 
 We were invited to host a workshop at [Mozfest](https://mozillafestival.org/about) 2017 to develop inclusive bite sized courses for the service. The aim of the workshop was to receive feedback on the project from Mozfest attendees, gathering insight on how we could best design the courses and hopefully recruit some enthusiastic volunteers. To do this, workshop participants were divided into two groups to build personas. The results included the following:
 
-
 You can find out more about the session through [our Medium blog post](https://medium.com/soul-medicine/we-asked-mozfest-to-help-us-make-online-learning-inclusive-for-women-refugees-b632c2f9f0c2) from Soul Medicine project lead, [Dina Ariss](https://twitter.com/dinaariss) and founder [Hera Hussain](https://twitter.com/herahussain).
 
 
 ### Supernova Project
+
+![](/assets/Screen Shot 2018-03-12 at 13.46.51.png)
 
 After working on Supernova for over an year, we finally launched it on July 25, 2017! The project was led by Michelle Parfitt and took us almost a year to finish. You can check it out at [supernovaproject.org](http://supernovaproject.org/).
 
@@ -130,6 +139,8 @@ We'll put this down as an experiment we learned from and a programme we will now
 
 ### Do It Yourself Online Safety
 
+![](/assets/HypuuurLynx.gif)
+
 At the end of 2016, Chayn launched our very own [Do It Yourself Guide to Online Safety](http://chayn.co/safety/): an intersectional feminist guide to online safety and privacy, focused particularly on women who are at risk of surveillance due to relationship abuse.
 
 We published two versions of the guide, a bite-sized short course focused on the essentials, called our [Starter Pack](https://chayn.gitbooks.io/basic-diy-online-privacy/content/), and an extended version of the guide, named our [Advanced Guide](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/). We're very proud that the basic guide is available in 8 languages: Arabic, Spanish, French, Greek, English, Urdu, Farsi, Russian, and Pashto.
@@ -160,6 +171,8 @@ In 2017, we worked to update our [Chayn India](http://chaynindia.com/) site.  As
 
 
 ### Chayn Italia
+
+![](/assets/8157333_1877171292504315_1769509637253786094_n.jpg)
 
 This year was very important for Chayn Italia. The chapter turned one on March 22, 2017 and after one year of hard online work, the team decided to strengthen its offline network by promoting Chayn's materials and by developing new partnerships across Italy.
 
@@ -241,6 +254,8 @@ We started addressing this in 2017 by bringing in a pipeline and editorial calen
 
 ### Challenges and failures
 
+![](/assets/IMG-2452.JPG)
+
 We had a year packed with project launches, and this was both good and bad. It was good because we were able to produce so much content that our users had been requesting. Despite having vowed to steer clear of volunteer burnout at our strategy session 2016, we fell into the classic trap of 'do-good till you burn out'. However, towards the middle of 2017, we began identifying the challenges so we could overcome these in 2018 (and we have!). 
 
 As we're volunteer-run, all of those working on Chayn have other commitments. This means that we do not have as much time to network or attend conferences as other organisations might do, which can sometimes mean we struggle to have the professional reputation that we would like.
@@ -288,7 +303,7 @@ We'll be reviewing the impact of this approach later this year, so stay tuned!
 
 --
 
-With 700 000+ views, many new project launches, a workflow rehaul and focused effort - we're happy to close 2017 as a year of learning. 
+#### With 700 000+ views, many new project launches, a workflow rehaul and focused effort - we're happy to close 2017 as a year of learning. 
 
 Spread the word! Here's to an even more kickass 2018.
 

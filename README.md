@@ -172,7 +172,7 @@ In 2017, we worked to update our [Chayn India](http://chaynindia.com/) site.  As
 
 ### Chayn Italia
 
-![](/assets/8157333_1877171292504315_1769509637253786094_n.jpg)
+![](/assets/18157333_1877171292504315_1769509637253786094_n.jpg)
 
 This year was very important for Chayn Italia. The chapter turned one on March 22, 2017 and after one year of hard online work, the team decided to strengthen its offline network by promoting Chayn's materials and by developing new partnerships across Italy.
 

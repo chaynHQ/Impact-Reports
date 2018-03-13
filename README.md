@@ -250,7 +250,7 @@ We started addressing this in 2017 by bringing in a pipeline and editorial calen
 *   [We asked Mozfest to help us make online learning inclusive for women & refugees](https://medium.com/soul-medicine/we-asked-mozfest-to-help-us-make-online-learning-inclusive-for-women-refugees-b632c2f9f0c2)
 
 ### Events
-![](/assets/Screen Shot 2018-03-13 at 10.31.25.png)
+![](/assets/mozfestjessroxanne.png)
 
 In 2017, Chayn volunteers attended and spoke at several key events across Europe. These events are one of the best ways to get word out about our projects, to meet other social organisations and to scout for new volunteer recruits. Here's a list of events we spoke at during 2017.
 

@@ -22,9 +22,9 @@ These visitors came to us from all around the world including US, UK, Germany, I
 
 **This brings our sum total from 2013 till now to:**
 
-### 722,662 pageviews
+### 722, 662 pageviews
 
-### 202,173 people
+### 202, 173 people
 
 Here's hoping we cross 1 million pageviews by 2018, and help more people facing abuse with our guides and toolkits!
 
@@ -37,7 +37,7 @@ Before we dive deep into 2017, let's review the top highlights of 2016. The [DIY
 
 Something a little different than usual, we collaborated on the viral [Snap Counsellors](http://snapcounsellors.com/) campaign, a partnership with [LoveDoctor.in ](http://lovedoctor.in/)and Rajshekar Patil. Snap Counsellors is a micro-counselling abuse helpline on Snapchat for teens, which became one of Nominet Trust's top 150 social tech projects of the year. This campaign partnership also won [Two Kyoorius Creative Awards in India](https://medium.com/hack-for-chayn/chayn-indias-innovative-campaign-to-counsel-teens-through-snapchat-wins-two-awards-at-india-s-21e073093f55#.xtlpn346u) and the ['Graphite Pencil' for D&AD Impact Award 2016](https://medium.com/hack-for-chayn/snap-counsellors-scoops-a-graphite-pencil-for-d-ad-impact-award-2016-186a0c848e08#.yd6ty6ocj). Currently, the helpline is being run by [Day One NY](http://snapcounsellors.com/news/2016/11/16/day-one-ny-joins-the-snap-counsellors-team).
 
-2016 also marked the year when Chayn formed a partnership with [SafeLives ](http://www.safelives.org.uk/)and [Snook ](https://wearesnook.com/)in a research collaboration , "[TechVsAbuse](http://www.techvsabuse.info/)", funded by [Comic Relief](https://www.comicrelief.com/). 
+2016 also marked the year when Chayn formed a partnership with [SafeLives ](http://www.safelives.org.uk/)and [Snook ](https://wearesnook.com/)in a research collaboration, "[TechVsAbuse](http://www.techvsabuse.info/)", funded by [Comic Relief](https://www.comicrelief.com/). 
 
 
 ## Our 2017 Impact: The Good, The Bad & The Growth

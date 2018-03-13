@@ -14,21 +14,21 @@ Like always, we work hard on our impact report to share not only our successes b
 
 **Across all of Chayn sites and projects, we reached a whopping: **
 
-#### 404, 496 pageviews 
+#### 404,496 pageviews 
 
-#### 114, 590 unique visitors
+#### 114,590 unique visitors
 
-These visitor came to us from all around the world including US, UK, Germany, India, France, Canada, Italy, Australia, Russia, Netherlands, Pakistan, UAE, China, Singapore, Switzerland, Ireland, Brazil, Malaysia, Saudi Arabia, Japan, Spain, Belgium, Mexico, Sweden and Chile.
+These visitors came to us from all around the world including US, UK, Germany, India, France, Canada, Italy, Australia, Russia, Netherlands, Pakistan, UAE, China, Singapore, Switzerland, Ireland, Brazil, Malaysia, Saudi Arabia, Japan, Spain, Belgium, Mexico, Sweden and Chile.
 
 **This brings our sum total from 2013 till now to:**
 
-### 722, 662 pageviews
+### 722,662 pageviews
 
-### 202, 173 people
+### 202,173 people
 
-Here's hoping we cross 1 million pageviews by 2018 and help more people facing abuse with our guides and toolkits!
+Here's hoping we cross 1 million pageviews by 2018, and help more people facing abuse with our guides and toolkits!
 
-In 2017, we upped our [Facebook](https://www.facebook.com/chayn/) and [Twitter](https://twitter.com/ChaynHQ) game because we saw that most women were finding us through social media (after searching on places like google), so much so that several of our new volunteers who joined over the latter half of 2017 did so because they saw our posts on social media.
+In 2017, we upped our [Facebook](https://www.facebook.com/chayn/) and [Twitter](https://twitter.com/ChaynHQ) game because we saw that most women were finding us through social media (after searching on places like Google), so much so that several of our new volunteers who joined over the latter half of 2017 did so because they saw our posts on social media.
 
 
 ## 2016: A review
@@ -37,7 +37,7 @@ Before we dive deep into 2017, let's review the top highlights of 2016. The [DIY
 
 Something a little different than usual, we collaborated on the viral [Snap Counsellors](http://snapcounsellors.com/) campaign, a partnership with [LoveDoctor.in ](http://lovedoctor.in/)and Rajshekar Patil. Snap Counsellors is a micro-counselling abuse helpline on Snapchat for teens, which became one of Nominet Trust's top 150 social tech projects of the year. This campaign partnership also won [Two Kyoorius Creative Awards in India](https://medium.com/hack-for-chayn/chayn-indias-innovative-campaign-to-counsel-teens-through-snapchat-wins-two-awards-at-india-s-21e073093f55#.xtlpn346u) and the ['Graphite Pencil' for D&AD Impact Award 2016](https://medium.com/hack-for-chayn/snap-counsellors-scoops-a-graphite-pencil-for-d-ad-impact-award-2016-186a0c848e08#.yd6ty6ocj). Currently, the helpline is being run by [Day One NY](http://snapcounsellors.com/news/2016/11/16/day-one-ny-joins-the-snap-counsellors-team).
 
-2016 also marked the year when Chayn formed a partnership with [SafeLives ](http://www.safelives.org.uk/)and [Snook ](https://wearesnook.com/)in a research collaboration , " [TechVsAbuse](http://www.techvsabuse.info/)", funded by [Comic Relief](https://www.comicrelief.com/). 
+2016 also marked the year when Chayn formed a partnership with [SafeLives ](http://www.safelives.org.uk/)and [Snook ](https://wearesnook.com/)in a research collaboration , "[TechVsAbuse](http://www.techvsabuse.info/)", funded by [Comic Relief](https://www.comicrelief.com/). 
 
 
 ## Our 2017 Impact: The Good, The Bad & The Growth
@@ -106,8 +106,8 @@ Former volunteer, Maryam explained: "If queer relationships aren't being talked 
 
 Most domestic abuse resources are heteronormative, focussed on cisgendered women facing abuse at the hands of cisgendered men. However, statistics show that abuse in queer relationships is just as prevalent as in heterosexual relationships. In fact, in the UK Stonewall [shared](http://www.stonewall.org.uk/help-advice/criminal-law/domestic-violence) that almost 49% of all gay and bi men, and a staggering 80% of trans people have experienced some form of domestic abuse. 
 
-To address this gap in domestic violence support, [The Supernova Project](http://supernovaproject.org/) hosts guidance and resources specifically for the queer community from 36 countries! \
- \
+To address this gap in domestic violence support, [The Supernova Project](http://supernovaproject.org/) hosts guidance and resources specifically for the queer community from 36 countries!
+
 Currently, we have content focussed on same-sex male relationships, same-sex female relationships, trans men and trans women. However, our long-term plan is to host content for all members of the LGBTQIA+ community, and we'd love your help.
 
 After a successful launch, the Supernova Project had an impressive press run, and was written about by our own volunteers too. Here's where news about Supernova Project was shared:
@@ -316,7 +316,7 @@ We'll be reviewing the impact of this approach later this year, so stay tuned!
 
 --
 
-#### With 700 000+ views, many new project launches, a workflow rehaul and focused effort - we're happy to close 2017 as a year of learning. 
+#### With 700,000+ views, many new project launches, a workflow rehaul and focused effort - we're happy to close 2017 as a year of learning. 
 
 Spread the word! Here's to an even more kickass 2018.
 

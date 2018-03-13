@@ -18,6 +18,8 @@ Like always, we work hard on our impact report to share not only our successes b
 
 #### 114, 590 unique visitors
 
+These visitor came to us from all around the world including US, UK, Germany, India, France, Canada, Italy, Australia, Russia, Netherlands, Pakistan, UAE, China, Singapore, Switzerland, Ireland, Brazil, Malaysia, Saudi Arabia, Japan, Spain, Belgium, Mexico, Sweden and Chile.
+
 **This brings our sum total from 2013 till now to:**
 
 ### 722, 662 pageviews
@@ -182,8 +184,6 @@ In March 2017, we translated our [DIY Online Safety Guide](https://chayn.co/safe
 
 Chayn Italia was featured in
 
-
-
 *   [Wired.it](https://www.wired.it/internet/web/2017/04/07/guida-di-autodifesa-digitale-contro-stalking-e-revenge-porn/)
 *   [InGenere.it](http://www.ingenere.it/news/come-difendersi-molestie-online-guida)
 *   [Start up Italia](http://cybersecurity.startupitalia.eu/54040-20170131-stalking-cyberbullismo-guida-antiviolenza-donne)
@@ -249,6 +249,20 @@ We started addressing this in 2017 by bringing in a pipeline and editorial calen
 *   [Help us make online learning inclusive for women and refugees at Mozfest](https://medium.com/soul-medicine/help-us-make-online-learning-inclusive-for-women-and-refugees-at-mozfest-a0b3382739da?source=collection_home---2------1----------------)
 *   [We asked Mozfest to help us make online learning inclusive for women & refugees](https://medium.com/soul-medicine/we-asked-mozfest-to-help-us-make-online-learning-inclusive-for-women-refugees-b632c2f9f0c2)
 
+### Events
+
+In 2017, Chayn volunteers attended and spoke at several key events across Europe. These events are one of the best ways to get word out about our projects, to meet other social organisations and to scout for new volunteer recruits. Here's a list of events we spoke at during 2017.
+
+*   Hera spoke at the[ British Islam Conference](https://billetto.co.uk/events/164594) on February 24 and 25 in London. At the conference, Hera spoke about how domestic violence can be identified and confronted within British Muslim communities. 
+*   In March 2017, volunteer Jessica Morley spoke at a Soapbox event about design in Chayn, and how non-profit should look at designing their projects.
+*   On International Women's Day, Chayn volunteers were out in force, with Dina, Chayn volunteer and Soul Medicine Project Lead, spreading the word about Chayn at a [Tech for Good meet-up](https://twitter.com/ChaynHQ/status/839572710493667328) in London. Meanwhile, Aliya spoke at a Spark Salon session, organised by Tata Consultancy Services. A write-up of Aliya's talk, titled '5 Ways Digital is Transforming Charities', is[ available via the Digital Empowers website](http://digitalempowers.com/5-ways-digital-transforming-charities/). Hera spoke at an OECD event in Paris on how government corruption harms marginalised women in particular.
+*   On March 31, Hera and Dina attended RightsCon in Brussels, hosted by[ Access Now](https://www.accessnow.org/), to talk about how Chayn leverage technology to fight patriarchy globally, while providing women with the skills and resources to live happy and healthy lives.
+*   From April 5 to 7, [Claudia Torrisi](https://twitter.com/clatorrisi) from Chayn Italia attended the International Journalism Festival in Perugia, Italy, where she spoke on a[ panel](http://www.festivaldelgiornalismo.com/programme/2017/do-not-call-it-a-crime-of-passion) about how the media narrates femicides and violence against women in a negative and dangerous way. An English translation of the panel is available[ on YouTube](https://www.youtube.com/watch?v=UNl6VBqYhPQ), titled 'Do not call it a crime of passion'.
+*   On April 6 and 7, Dina spoke at the[ Losing Control](http://www.losingcontrol.org/) hack held in Oxford about how Chayn, as a movement, is run successfully[ using fluid and democratic leadership](https://medium.com/hack-for-chayn/running-a-fluid-and-democratic-volunteer-run-organisation-3538e12c699e). To accompany this event Dina wrote[ a blog post for the event](http://www.losingcontrol.org/blogs-and-resources/guest-blogger-dina-ariss-chayn) on tips and tricks for running a volunteer based organization, like Chayn.
+*   On April 28, Chayn Italia held a fundraising party! Around 70 people attended a viewing of 'Principesse e Sfumature' – a play on gender stereotyping, women's desire and a few more of Chayn's favourite topics. The party raised around €350, which will help the team to cover the expenses of legally registering[ Chayn Italia](https://twitter.com/Chayn_Italia).
+*   On May 27, Chayn hosted our first [Facebook Live](https://www.youtube.com/watch?v=nU9iak0kA-k) in London, as part of Chayn turning 4 in 2017. We launched our Impact Report and had a panel full of our volunteers speaking of all the milestones of 2016!
+*   From October 27 to 29, Lizzie, Hera, Dina, Jess and Roxanne attended [Mozfest](https://mozillafestival.org/about), running two workshops on Soul Medicine and the Privacy Guide. The Privacy Guide GIFS workshop was a particular success as privacy and security tips were shared via cats and GIFs to make the topics accessible and interactive. Details of the Soul Medicine project and workshop can also be read via[ Dina's blog post on Medium](https://medium.com/soul-medicine/help-us-make-online-learning-inclusive-for-women-and-refugees-at-mozfest-a0b3382739da).
+*   On December 4, as part of [#16DaysofActivism](http://www.unwomen.org/en/what-we-do/ending-violence-against-women/take-action/16-days-of-activism), Hera spoke at an event hosted by Oxfam Policy and Practice on how technology can help in building a world free of gender-based violence.
 
 ### Challenges and failures
 

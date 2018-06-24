@@ -7,7 +7,7 @@ h2 { font-size: 2em; font-family: "Oswald"; color: #d16544;}
 h3 { font-size: 1.5em; font-family: "Oswald"; color: #52bf91;}
 
 /* body font */ 
-body, * { font-family: "Courier", Helvetica, sans-serif; font-size: 12px; }
+body, * { font-family: "Courier", "Helvetica", "sans-serif"; font-size: 12px; }
 
 /* table of contents */.book-summary{ background-color: #f0244d;}
 

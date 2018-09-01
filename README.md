@@ -96,7 +96,7 @@ You can find out more about the session through [our Medium blog post](https://m
 
 ### Supernova Project
 
-![](/assets/Screen Shot 2018-03-12 at 13.46.51.png)
+![](/assets/Screen%20Shot%202018-03-12%20at%2013.46.51.png)
 
 After working on Supernova for over an year, we finally launched it on July 25, 2017! The project was led by Michelle Parfitt and took us almost a year to finish. You can check it out at [supernovaproject.org](http://supernovaproject.org/).
 

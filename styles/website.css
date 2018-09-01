@@ -1,6 +1,12 @@
 /* page background */ body { background-color: #FAFAFA;}
 
+/* importing google fonts */
+@import 'https://fonts.googleapis.com/css?family=Oswald'
+
 /* heading fonts */
+font-family: 'Oswald', sans-serif;
+
+
 @font-face {
   font-family: 'Oswald-Regular';
   font-style: normal;

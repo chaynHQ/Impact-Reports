@@ -12,7 +12,7 @@ Through our events, projects and launches, we also came up against a few challen
 
 Like always, we work hard on our impact report to share not only our successes but also highlight the challenges we faced and overcame, and what we should be working on in order to improve further in 2018.
 
-**Across all of Chayn sites and projects, we reached a whopping: **
+**Across all of Chayn sites and projects, we reached a whopping:**
 
 #### 404,496 pageviews 
 
@@ -73,7 +73,7 @@ Since its launch in June, our Manipulation is Abuse guide has been accessed 3,57
 
 ### Tech Vs. Abuse & Soul Medicine
 
-![](/assets/Photo 02-02-2018, 17 40 36.jpg)
+![](/assets/Photo%2002-02-2018,%2017%2040%2036.jpg)
 
 Our [Tech Vs. Abuse](https://www.techvsabuse.info/) project is a collaboration between four organisations - Chayn, [Snook](https://wearesnook.com), [SafeLives](safelives.org.uk) and [Comic Relief](https://www.comicrelief.com) - to find out what role digital technologies can play in helping to support people affected by domestic abuse.
 
@@ -285,7 +285,7 @@ The sense of urgency we often infected our team with is great to acknowledge the
 
 Not having a dedicated grants team caused a considerable amount of strain. In 2018, we are trying hard to recruit more active volunteers who are equally, if not more, excited about working in this space and who have the necessary networks to make the biggest impact. 
 
-**New challenges to understand **
+**New challenges to understand**
 
 As we enter a new year, and a big year of growth for Chayn, there are plenty more nuanced challenges that we will need to get better at understanding as we look to develop a more formal structure. These challenges include:
 

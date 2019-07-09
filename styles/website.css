@@ -13,6 +13,23 @@ h3 { font-size: 1.5em; font-family: "Oswald-Bold"; color: #52bf91;}
 /* body font */ 
 body, * { font-family: "Courier", "Helvetica", "sans-serif"; font-size: 12px; }
 
+/* A link that has not been visited */
+a:link {
+    color: #f0244d;
+}
+/* A link that has been visited */
+a:visited {
+    color: grey;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #F9E7DD;
+}
+/* A link that is selected */
+a:active {
+    color: purple;
+}
+
 /* table of contents */.book-summary{ background-color: #f0244d;}
 
 /* search bar */

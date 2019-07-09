@@ -243,13 +243,13 @@ We struggled to find enough volunteers who have the skills and confidence to cur
 
 We also lacked a stable technical team. We spent quite a bit of time doing quick hacks to patch our systems. Our GitBooks stopped working the night before Hera was going to be speaking at MIT Emtech, a moment we were all so proud of. So Tiffany had to spend the entire night and the morning bringing it all online. 
 
-**(d) Balancing big and small projects**
+**Balancing big and small projects**
 
 From May 2018, we moved to working on one main project as a whole volunteer team, as well as having paid partners working on Soul Medicine (see below). The Getting Better and Moving On guide was a hugely important project for us, as it cuts across all of our work.  
  
 Whilst everyone was motivated by the idea of the project, the scope of what we were planning was unwieldy and people started to check out. However, once we got to the design phase, people became interested again: they could see how all the information could come to life and how they could make it usable. It’s something we are considering for 2019. Evidently five projects at the same time is too much (pre-2018) and one project too little (2018) so maybe we need to try three projects at the same time?
 
-**(e) In-depth learning from a funded project: Soul Medicine**
+**In-depth learning from a funded project: Soul Medicine**
 
 We learnt a lot about planning and working with external paid staff through this project. 
 

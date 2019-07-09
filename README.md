@@ -61,7 +61,7 @@ Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us
 
 *   We [hosted](https://twitter.com/ChaynHQ/status/1056547664806977536) a workshop about building an ethical chat bot at **Mozfest by Mozilla Foundation** in London
 
-*   We attended and [got a prize](https://www.facebook.com/WeWorkUK/photos/a.1147424115411282/1147798618707165/?type=3&theater) at the **WeWork Creator Awards** and meet **Mila Kunis **who said she liked our website!
+*   We attended and [got a prize](https://www.facebook.com/WeWorkUK/photos/a.1147424115411282/1147798618707165/?type=3&theater) at the **WeWork Creator Awards** and meet **Mila Kunis** who said she liked our website!
 
 *   Hera spoke at **[Filanthropy’s 5 year bash](https://twitter.com/ChaynHQ/status/1062017189841113088)** about our incredible journey from raising a little over £700 at their event to now running multiple projects.
 
@@ -137,7 +137,7 @@ Although blogging has lost some ground due to the social media pattern of short 
 
 _New projects_
 
-**Little Window **(it’s live on our [website](https://chayn.co/)!) 
+**Little Window** (it’s live on our [website](https://chayn.co/)!) 
 
 We launched Little Window April 2018, a multilingual chatbot that directs victims and survivors of abuse to the right information. The first was an insight from the 2016 [Tech vs Abuse](https://www.techvsabuse.info/) report which we undertook with Safelives and Snook, commissioned by Comic Relief looking at the use of technology by victims and practitioners in the UK. This resulted in the design challenge of the “15 mins window”. 
 

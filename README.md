@@ -27,13 +27,15 @@ We are over the moon.
 These numbers look good but these are estimates. Every year we crunch the Google Analytics and gitbooks numbers to see how many people are viewing and using our resources. It’s our primary tool for measuring impact. Despite 2018 being the year we received the most exposure, our Google Analytics tokens stopped working which meant we had no usage data for the most part of 2018. As such, we’ve had to fill in the gaps using a hybrid of two methods: Some places we used the growth for previous years to predict an anticipated average throughout 2018 and in other places, we used a significantly lower percentage of the super-optimistic numbers from our web host. 
 
 ## 2. HIGHLIGHTS
+![](.gitbook/assets/keringfoundation_1.jpg)
+
 **Awards**
 
 What a whopper of a year it has been in comes to awards! We are incredibly humbled. From spending years explaining to people what Chayn does and the impact it creates (hence our cover photo for the report) to getting nominated for multiple awards this year - it has been a rollercoaster.
 
-Our founder, Hera Hussain received multiple awards for her leadership and vision. As part of **MIT Technology Review’s [Innovators Under 35](https://www.technologyreview.com/lists/innovators-under-35/2018/)** Hera received an award as one of the “humanitarians using technology as a way to bring about a safer, healthier, and more equitable world.''  \
- \
-She was nominated as **one of the 100 creative changemakers by The Dots & Squarespace ‘[Leaders with Social Heart](https://the-dots.com/projects/leaders-with-social-heart-100-creative-changemakers-248117?utm_source=nom)’ **and was recognised in [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe/2018/social-entrepreneurs/#de71fb05d8f3) Social Entrepreneurs of Europe.  \
+Our founder, Hera Hussain received multiple awards for her leadership and vision. As part of **MIT Technology Review’s [Innovators Under 35](https://www.technologyreview.com/lists/innovators-under-35/2018/)** Hera received an award as one of the “humanitarians using technology as a way to bring about a safer, healthier, and more equitable world.''
+ 
+She was nominated as **one of the 100 creative changemakers by The Dots & Squarespace ‘[Leaders with Social Heart](https://the-dots.com/projects/leaders-with-social-heart-100-creative-changemakers-248117?utm_source=nom)’ **and was recognised in [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe/2018/social-entrepreneurs/#de71fb05d8f3) Social Entrepreneurs of Europe.
 
 
 In the UK, the Prime Minister awarded Hera her **[Points of Light Award](https://twitter.com/PM4EastRen/status/1024220439277723649)** which recognises outstanding individuals who volunteer to make a difference in their communities. 
@@ -42,25 +44,25 @@ We also picked up the **Microsoft Spark Award** at the **Forbes 30 Under 30** ev
 
 Specific projects also received recognition in awards ceremonies. **The [Kering Foundation](https://www.facebook.com/chayn/posts/1996017840460083?__tn__=-R)** recognised the contribution of our chatbot project, Little Window, in the fight to end violence against women and girls (see this [video montage](https://www.youtube.com/watch?time_continue=64&v=s_Ob5be8vDQ)). 
 
-Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us a **£50k** extension to continue to develop this work. **The [WeWork Creator Awards](https://www.youtube.com/watch?v=lSwqawy2tN4) **recognised the potential of Chayn as a model for developing solutions to social issues and awarded us **£13k **in October 2018**.** We also received **$5k** from the Shuttleworth Foundation which helped us cover some of our tech costs. \
+Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us a **£50k** extension to continue to develop this work. **The [WeWork Creator Awards](https://www.youtube.com/watch?v=lSwqawy2tN4) **recognised the potential of Chayn as a model for developing solutions to social issues and awarded us **£13k **in October 2018**.** We also received **$5k** from the Shuttleworth Foundation which helped us cover some of our tech costs.
 
 **We also spoke at and participated in many events around the world. Here are a few of them: **
 
-*   At the **meConvention**, Stockholm, Hera was [in conversation](https://www.youtube.com/watch?v=YBkyCRuR2Vw) with Tracy Chou, co-founder of Project Include discussing how company culture affects end products \
+*   At the **meConvention**, Stockholm, Hera was [in conversation](https://www.youtube.com/watch?v=YBkyCRuR2Vw) with Tracy Chou, co-founder of Project Include discussing how company culture affects end products
 
-*   At **[EmTech MIT](https://events.technologyreview.com/video/watch/hera-hussain-chayn-innovator/), Boston**, we spoke about taking on the infrastructure of the web, to create intersectional resources and solutions \
+*   At **[EmTech MIT](https://events.technologyreview.com/video/watch/hera-hussain-chayn-innovator/), Boston**, we spoke about taking on the infrastructure of the web, to create intersectional resources and solutions
 
-*   Our Johanna spoke at **[DataKind UK](https://www.facebook.com/chayn/photos/a.611077615620786/2168996176495581/?type=3&__xts__%5B0%5D=68.ARBNPD-FiLlk1SPITrQLfJ9f3z0956KUbVU6I6tXp0hfRsikFwzkcORXE05aQ-xjNoDxHszh3lDwofyg_45eb-AxapMPBfcCmgz-xtwqSktQFYwZRtBP8haKYy7djn980vmr5jow68qwVx1iFHrrOZC60a-Su9TJHROoJYvxI2j4FIvEYt185RBEnaGf4i6iAVQwcTI_zI-IdW16EJLuWOaObU4&__tn__=-R)** about Little Window, our chatbot \
+*   Our Johanna spoke at **[DataKind UK](https://www.facebook.com/chayn/photos/a.611077615620786/2168996176495581/?type=3&__xts__%5B0%5D=68.ARBNPD-FiLlk1SPITrQLfJ9f3z0956KUbVU6I6tXp0hfRsikFwzkcORXE05aQ-xjNoDxHszh3lDwofyg_45eb-AxapMPBfcCmgz-xtwqSktQFYwZRtBP8haKYy7djn980vmr5jow68qwVx1iFHrrOZC60a-Su9TJHROoJYvxI2j4FIvEYt185RBEnaGf4i6iAVQwcTI_zI-IdW16EJLuWOaObU4&__tn__=-R)** about Little Window, our chatbot
 
-*   Hera [spoke](https://twitter.com/m3_collective/status/1038010548988854273) at the **Forbes Summit Amsterdam** about intersectionality and diversity in tech \
+*   Hera [spoke](https://twitter.com/m3_collective/status/1038010548988854273) at the **Forbes Summit Amsterdam** about intersectionality and diversity in tech
 
-*   Hera also [represented](https://twitter.com/AmnaAbdul1983/status/1009214494843826187) us at **The Kering Foundation** award ceremony where we were one of the six honorees  \
+*   Hera also [represented](https://twitter.com/AmnaAbdul1983/status/1009214494843826187) us at **The Kering Foundation** award ceremony where we were one of the six honorees
 
-*   We [hosted](https://twitter.com/ChaynHQ/status/1056547664806977536) a workshop about building an ethical chat bot at **Mozfest by Mozilla Foundation **in London \
+*   We [hosted](https://twitter.com/ChaynHQ/status/1056547664806977536) a workshop about building an ethical chat bot at **Mozfest by Mozilla Foundation** in London
 
-*   We attended and [got a prize](https://www.facebook.com/WeWorkUK/photos/a.1147424115411282/1147798618707165/?type=3&theater) at the **WeWork Creator Awards** and meet **Mila Kunis **who said she liked our website!  \
+*   We attended and [got a prize](https://www.facebook.com/WeWorkUK/photos/a.1147424115411282/1147798618707165/?type=3&theater) at the **WeWork Creator Awards** and meet **Mila Kunis **who said she liked our website!
 
-*   Hera spoke at **[Filanthropy’s 5 year bash](https://twitter.com/ChaynHQ/status/1062017189841113088)** about our incredible journey from raising a little over £700 at their event to now running multiple projects. \
+*   Hera spoke at **[Filanthropy’s 5 year bash](https://twitter.com/ChaynHQ/status/1062017189841113088)** about our incredible journey from raising a little over £700 at their event to now running multiple projects.
 
 *   Dina Julietta [spoke](https://twitter.com/CentreHubertine/status/1064806521845018624) at the Les Cyberviolences Sexistes Et Sexuelles – Nouvelles Données Et Nouveaux Défis about our DIY online safety guide in Paris
 
@@ -70,31 +72,31 @@ Off the back of our stellar award season, we’ve had some great coverage from t
 
 
 
-*   [MIT Technology Review](https://www.technologyreview.com/lists/innovators-under-35/2018/humanitarian/hera-hussain/) did a profile on Hera as one of the Innovators Under 35 in its class of 2018 \
+*   [MIT Technology Review](https://www.technologyreview.com/lists/innovators-under-35/2018/humanitarian/hera-hussain/) did a profile on Hera as one of the Innovators Under 35 in its class of 2018
 
-*   Hera was [interviewed by Inkline](https://the-inkline.com/2018/06/20/chayn-using-technology-to-fight-domestic-violence/) on how Chayn uses tech to fight domestic violence \
+*   Hera was [interviewed by Inkline](https://the-inkline.com/2018/06/20/chayn-using-technology-to-fight-domestic-violence/) on how Chayn uses tech to fight domestic violence
 
-*   As a winner of Kering Foundation awards, Hera was [featured in an article on Women’s Wear Daily](https://wwd.com/fashion-news/fashion-scoops/kering-foundation-awards-reflect-metoo-moment-1202719210/) on crucial issues raised by the #MeToo movement \
+*   As a winner of Kering Foundation awards, Hera was [featured in an article on Women’s Wear Daily](https://wwd.com/fashion-news/fashion-scoops/kering-foundation-awards-reflect-metoo-moment-1202719210/) on crucial issues raised by the #MeToo movement
 
-*   Hera was [interviewed by Fairplanet](https://www.fairplanet.org/story/a-platform-for-women-who-struggle-with-abusive-relationships/) on how Chayn designing to empower women facing abuse \
+*   Hera was [interviewed by Fairplanet](https://www.fairplanet.org/story/a-platform-for-women-who-struggle-with-abusive-relationships/) on how Chayn designing to empower women facing abuse
 
-*   After being named as one of MIT Review’s top 35 innovators, Hera was [featured in Boston Herald](http://www.bostonherald.com/business/business_markets/2018/06/mit_names_35_top_young_innovators_in_technology) \
+*   After being named as one of MIT Review’s top 35 innovators, Hera was [featured in Boston Herald](http://www.bostonherald.com/business/business_markets/2018/06/mit_names_35_top_young_innovators_in_technology)
 
-*   Hera was [featured in Inc Magazine](https://www.inc.com/catherine-perloff/meet-women-taking-over-mit-technology-reviews-35-innovators-under-35-list.html) with all the women winners of 2018’s MIT Technology Review’s Innovators under 35 list \
+*   Hera was [featured in Inc Magazine](https://www.inc.com/catherine-perloff/meet-women-taking-over-mit-technology-reviews-35-innovators-under-35-list.html) with all the women winners of 2018’s MIT Technology Review’s Innovators under 35 list
 
-*   [RTL Futur interviewed Hera](https://www.rtl.fr/actu/futur/comment-un-reseau-feminin-peut-favoriser-votre-carriere-et-plus-encore-7793583124) on how female networks bring women together to help them achieve personal and professional success \
+*   [RTL Futur interviewed Hera](https://www.rtl.fr/actu/futur/comment-un-reseau-feminin-peut-favoriser-votre-carriere-et-plus-encore-7793583124) on how female networks bring women together to help them achieve personal and professional success
 
-*   Hera interviewed with the [Sunday Times](https://www.thetimes.co.uk/article/porn-pop-culture-and-the-teen-abuse-crisis-b3pxxv6vm?fbclid=IwAR2gjYwd43Zmrxx2F_3z9csW47IaeZ8kAg-bS2rUVlFaQ297SVpHb3ojLcw) for an article on the culture of slut-shaming in today’s society and the impact this has on teen abuse \
+*   Hera interviewed with the [Sunday Times](https://www.thetimes.co.uk/article/porn-pop-culture-and-the-teen-abuse-crisis-b3pxxv6vm?fbclid=IwAR2gjYwd43Zmrxx2F_3z9csW47IaeZ8kAg-bS2rUVlFaQ297SVpHb3ojLcw) for an article on the culture of slut-shaming in today’s society and the impact this has on teen abuse
 
-*   Hera wrote an article for [The Independent](https://www.independent.co.uk/voices/metoo-consent-dating-campaign-sexism-marital-rape-sexual-assault-a8180966.html?fbclid=IwAR35bRgj7PeiNb0iezn5yDCFrwfivQCQUBbVziyfYxfPTZ5pa-UCObOtk_g ) on how consent doesn't end with dating, that husbands should also ask for consent from their spouses \
+*   Hera wrote an article for [The Independent](https://www.independent.co.uk/voices/metoo-consent-dating-campaign-sexism-marital-rape-sexual-assault-a8180966.html?fbclid=IwAR35bRgj7PeiNb0iezn5yDCFrwfivQCQUBbVziyfYxfPTZ5pa-UCObOtk_g ) on how consent doesn't end with dating, that husbands should also ask for consent from their spouses
 
-*   [Manchester Evening News](https://t.co/bbJsH6cnij) interviewed Hera about what led her to found Chayn and what support we’re now able to offer \
+*   [Manchester Evening News](https://t.co/bbJsH6cnij) interviewed Hera about what led her to found Chayn and what support we’re now able to offer
 
-*   Following on from Hera’s nomination for the Creator Awards, [Fundraising.co.uk](https://fundraising.co.uk/2018/10/24/three-uk-non-profit-founders-announced-creator-awards-finalists/ ) wrote a short feature on the awards and describing our work \
+*   Following on from Hera’s nomination for the Creator Awards, [Fundraising.co.uk](https://fundraising.co.uk/2018/10/24/three-uk-non-profit-founders-announced-creator-awards-finalists/ ) wrote a short feature on the awards and describing our work
 
-*   Hera’s award from the Kering Foundation brought Chayn a double-whammy of international coverage this year: publications such as [Vogue Italia](https://www.vogue.it/news/appuntamenti-eventi/2018/06/26/premio-fondazione-kering-imprenditoria-sociale), [LesEchos](https://start.lesechos.fr/actu-entreprises/societe/violences-faites-aux-femmes-7-projets-innovants-recompenses-12179.php) wrote about the winners back in June when the awards were given out, but the Kering Foundation’s 10th anniversary in November brought a new wave of attention in the likes of [The Independent](https://www.standard.co.uk/fashion/kering-celebrates-ten-years-of-the-kering-foundation-paris-a4002991.html?fbclid=IwAR3z5e7C_x_LB-SQh7fCYRNz-9e12kMjjg7uF1-jynxN7BT8B3-QpzlghtQ), [Elle](https://www.elle.com/uk/fashion/a25354897/kering-foundation-celebrates-10-years/?fbclid=IwAR2PMZHQwWr_DP-yiMkd9JNZENVJw88oUTKQveVRDS8tGxZ9o9mRsEcE3wI), [GQ](https://www.gq-magazine.co.uk/article/kering-foundation-10-years?fbclid=IwAR2J0k4L1aCiOvjcAYLatqCH3pT7Gl2ZJyjIupMiUfAtRQyHQsvRefv_eQA) and [Wonderland](https://www.wonderlandmagazine.com/2018/11/29/kering-foundation-10-anniversary/?fbclid=IwAR1YchVPFwx6OlPzaweIgqF_UfsWqniNBohX3GdzwkNqLAqfcDiwqAeMM_k) \
+*   Hera’s award from the Kering Foundation brought Chayn a double-whammy of international coverage this year: publications such as [Vogue Italia](https://www.vogue.it/news/appuntamenti-eventi/2018/06/26/premio-fondazione-kering-imprenditoria-sociale), [LesEchos](https://start.lesechos.fr/actu-entreprises/societe/violences-faites-aux-femmes-7-projets-innovants-recompenses-12179.php) wrote about the winners back in June when the awards were given out, but the Kering Foundation’s 10th anniversary in November brought a new wave of attention in the likes of [The Independent](https://www.standard.co.uk/fashion/kering-celebrates-ten-years-of-the-kering-foundation-paris-a4002991.html?fbclid=IwAR3z5e7C_x_LB-SQh7fCYRNz-9e12kMjjg7uF1-jynxN7BT8B3-QpzlghtQ), [Elle](https://www.elle.com/uk/fashion/a25354897/kering-foundation-celebrates-10-years/?fbclid=IwAR2PMZHQwWr_DP-yiMkd9JNZENVJw88oUTKQveVRDS8tGxZ9o9mRsEcE3wI), [GQ](https://www.gq-magazine.co.uk/article/kering-foundation-10-years?fbclid=IwAR2J0k4L1aCiOvjcAYLatqCH3pT7Gl2ZJyjIupMiUfAtRQyHQsvRefv_eQA) and [Wonderland](https://www.wonderlandmagazine.com/2018/11/29/kering-foundation-10-anniversary/?fbclid=IwAR1YchVPFwx6OlPzaweIgqF_UfsWqniNBohX3GdzwkNqLAqfcDiwqAeMM_k)
 
-*   Suzanne Jacob the Chief Executive of SafeLives wrote a piece for the [Metro](https://metro.co.uk/2018/11/23/apps-are-being-used-by-abusers-to-control-victims-and-its-time-for-big-tech-companies-to-act-8166642/?fbclid=IwAR0ef8IjBvgs2-GVoy-X3pBmqUSQLz8wuHK_QvdEVQye65wLCd1TC10eP70) about the abuse of apps by abusers in controlling their victims, calling for tech companies to take responsibility. In this article Suzanne references Chayn as pioneering positive use of tech \
+*   Suzanne Jacob the Chief Executive of SafeLives wrote a piece for the [Metro](https://metro.co.uk/2018/11/23/apps-are-being-used-by-abusers-to-control-victims-and-its-time-for-big-tech-companies-to-act-8166642/?fbclid=IwAR0ef8IjBvgs2-GVoy-X3pBmqUSQLz8wuHK_QvdEVQye65wLCd1TC10eP70) about the abuse of apps by abusers in controlling their victims, calling for tech companies to take responsibility. In this article Suzanne references Chayn as pioneering positive use of tech
 
 *   Hera [spoke](https://pod.co/tech-for-good-live/tfgl-at-the-federation-episode-1-bias-tech-with-safiya-umoja-noble) with the indomitable Dr.Safiya Noble (author of [Algorithms of Oppression](http://bit.ly/AlgorithmsOpp )) on this Tech for Good live podcast as part of the Federation Presents
 
@@ -213,8 +215,8 @@ We also lacked a stable technical team. We spent quite a bit of time doing quick
 
 **(d) Balancing big and small projects**
 
-From May 2018, we moved to working on one main project as a whole volunteer team, as well as having paid partners working on Soul Medicine (see below). The Getting Better and Moving On guide was a hugely important project for us, as it cuts across all of our work.  \
- \
+From May 2018, we moved to working on one main project as a whole volunteer team, as well as having paid partners working on Soul Medicine (see below). The Getting Better and Moving On guide was a hugely important project for us, as it cuts across all of our work.  
+ 
 Whilst everyone was motivated by the idea of the project, the scope of what we were planning was unwieldy and people started to check out. However, once we got to the design phase, people became interested again: they could see how all the information could come to life and how they could make it usable. It’s something we are considering for 2019. Evidently five projects at the same time is too much (pre-2018) and one project too little (2018) so maybe we need to try three projects at the same time?
 
 **(e) In-depth learning from a funded project: Soul Medicine**

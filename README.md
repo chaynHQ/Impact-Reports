@@ -46,7 +46,7 @@ Specific projects also received recognition in awards ceremonies. **The [Kering 
 
 Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us a **£50k** extension to continue to develop this work. **The [WeWork Creator Awards](https://www.youtube.com/watch?v=lSwqawy2tN4) **recognised the potential of Chayn as a model for developing solutions to social issues and awarded us **£13k **in October 2018**.** We also received **$5k** from the Shuttleworth Foundation which helped us cover some of our tech costs.
 
-**We also spoke at and participated in many events around the world. Here are a few of them: **
+**We also spoke at and participated in many events around the world. Here are a few of them:**
 
 *   At the **meConvention**, Stockholm, Hera was [in conversation](https://www.youtube.com/watch?v=YBkyCRuR2Vw) with Tracy Chou, co-founder of Project Include discussing how company culture affects end products
 

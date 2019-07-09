@@ -1,6 +1,7 @@
 # 2018
 
-![](.gitbook/assets/cover-2018.png)
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/cover-2018.png)
+
 
 We know we say this every year but really, 2018 was our best yet. We received many awards, got registered as a social enterprise, ran many campaigns, developed a self-help guide to mental health and well being, and changed our workflow to make it easier for a nimble team. We increased our reach on social media and we continually develop our engaging content to resonate with our global audiences. Our volunteers from around the world have been busy! 
 

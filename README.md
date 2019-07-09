@@ -17,6 +17,9 @@ So, how did we do in 2018?
 
 ## 1. IMPACT NUMBERS
 
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/cover-2018.png)
+
+
 Across all our platforms and resources, we reached 
 ### 150,000 people, generating more than 500,000 page views. 
 
@@ -28,7 +31,7 @@ We are over the moon.
 These numbers look good but these are estimates. Every year we crunch the Google Analytics and gitbooks numbers to see how many people are viewing and using our resources. It’s our primary tool for measuring impact. Despite 2018 being the year we received the most exposure, our Google Analytics tokens stopped working which meant we had no usage data for the most part of 2018. As such, we’ve had to fill in the gaps using a hybrid of two methods: Some places we used the growth for previous years to predict an anticipated average throughout 2018 and in other places, we used a significantly lower percentage of the super-optimistic numbers from our web host. 
 
 ## 2. HIGHLIGHTS
-![](.gitbook/assets/keringfoundation_1.jpg)
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/keringfoundation_1.jpg)
 
 **Awards**
 
@@ -36,7 +39,7 @@ What a whopper of a year it has been in comes to awards! We are incredibly humbl
 
 Our founder, Hera Hussain received multiple awards for her leadership and vision. As part of **MIT Technology Review’s [Innovators Under 35](https://www.technologyreview.com/lists/innovators-under-35/2018/)** Hera received an award as one of the “humanitarians using technology as a way to bring about a safer, healthier, and more equitable world."
  
-She was nominated as **one of the 100 creative changemakers by The Dots & Squarespace ‘[Leaders with Social Heart](https://the-dots.com/projects/leaders-with-social-heart-100-creative-changemakers-248117?utm_source=nom)’ **and was recognised in [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe/2018/social-entrepreneurs/#de71fb05d8f3) Social Entrepreneurs of Europe.**
+She was nominated as **one of the 100 creative changemakers by The Dots & Squarespace ‘[Leaders with Social Heart](https://the-dots.com/projects/leaders-with-social-heart-100-creative-changemakers-248117?utm_source=nom)’** and was recognised in [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe/2018/social-entrepreneurs/#de71fb05d8f3) Social Entrepreneurs of Europe.
 
 
 In the UK, the Prime Minister awarded Hera her **[Points of Light Award](https://twitter.com/PM4EastRen/status/1024220439277723649)** which recognises outstanding individuals who volunteer to make a difference in their communities. 
@@ -45,7 +48,12 @@ We also picked up the **Microsoft Spark Award** at the **Forbes 30 Under 30** ev
 
 Specific projects also received recognition in awards ceremonies. **The [Kering Foundation](https://www.facebook.com/chayn/posts/1996017840460083?__tn__=-R)** recognised the contribution of our chatbot project, Little Window, in the fight to end violence against women and girls (see this [video montage](https://www.youtube.com/watch?time_continue=64&v=s_Ob5be8vDQ)). 
 
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-08%20at%2010.23.21%20pm.png)
+
 Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us a **£50k** extension to continue to develop this work. **The [WeWork Creator Awards](https://www.youtube.com/watch?v=lSwqawy2tN4)** recognised the potential of Chayn as a model for developing solutions to social issues and awarded us **£13k **in October 2018**.** We also received **$5k** from the Shuttleworth Foundation which helped us cover some of our tech costs.
+
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-08%20at%2010.21.30%20pm.png)![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-08%20at%2010.24.02%20pm.png)
+
 
 **We also spoke at and participated in many events around the world. Here are a few of them:**
 

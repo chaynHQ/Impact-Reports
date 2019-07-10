@@ -1,6 +1,6 @@
 # 2018
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/cover-2018.png)
 
 
 We know we say this every year but really, 2018 was our best yet. We received many awards, got registered as a social enterprise, ran many campaigns, developed a self-help guide to mental health and well being, and changed our workflow to make it easier for a nimble team. We increased our reach on social media and we continually develop our engaging content to resonate with our global audiences. Our volunteers from around the world have been busy! 
@@ -17,7 +17,7 @@ So, how did we do in 2018?
 
 ## 1. IMPACT NUMBERS
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/impact_numbers_2018.png)
 
 
 Across all our platforms and resources, we reached 
@@ -31,7 +31,7 @@ We are over the moon.
 These numbers look good but these are estimates. Every year we crunch the Google Analytics and gitbooks numbers to see how many people are viewing and using our resources. It’s our primary tool for measuring impact. Despite 2018 being the year we received the most exposure, our Google Analytics tokens stopped working which meant we had no usage data for the most part of 2018. As such, we’ve had to fill in the gaps using a hybrid of two methods: Some places we used the growth for previous years to predict an anticipated average throughout 2018 and in other places, we used a significantly lower percentage of the super-optimistic numbers from our web host. 
 
 ## 2. HIGHLIGHTS
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/keringfoundation_1.jpg)
 
 **Awards**
 
@@ -45,20 +45,20 @@ She was nominated as **one of the 100 creative changemakers by The Dots & Square
 In the UK, the Prime Minister awarded Hera her **[Points of Light Award](https://twitter.com/PM4EastRen/status/1024220439277723649)** which recognises outstanding individuals who volunteer to make a difference in their communities. 
 
 We also picked up the **Microsoft Spark Award** at the **Forbes 30 Under 30** event in Amsterdam.
-![]()![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/)![]()
 
 Specific projects also received recognition in awards ceremonies. **The [Kering Foundation](https://www.facebook.com/chayn/posts/1996017840460083?__tn__=-R)** recognised the contribution of our chatbot project, Little Window, in the fight to end violence against women and girls (see this [video montage](https://www.youtube.com/watch?time_continue=64&v=s_Ob5be8vDQ)). 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/forbes_microsoft.png)
 
 Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us a **£50k** extension to continue to develop this work. **The [WeWork Creator Awards](https://www.youtube.com/watch?v=lSwqawy2tN4)** recognised the potential of Chayn as a model for developing solutions to social issues and awarded us **£13k **in October 2018**.** We also received **$5k** from the Shuttleworth Foundation which helped us cover some of our tech costs.
 
-![]()![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/uksaysnomore.png)![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/kering_amna_2018.png)
 
 
 **We also spoke at and participated in many events around the world. Here are a few of them:**
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/mozfest2018.jpg)
 
 *   At the **meConvention**, Stockholm, Hera was [in conversation](https://www.youtube.com/watch?v=YBkyCRuR2Vw) with Tracy Chou, co-founder of Project Include discussing how company culture affects end products
 
@@ -74,14 +74,14 @@ Our work on Soul Medicine was recognised by **Comic Relief** who have awarded us
 
 *   We attended and [got a prize](https://www.facebook.com/WeWorkUK/photos/a.1147424115411282/1147798618707165/?type=3&theater) at the **WeWork Creator Awards** and meet **Mila Kunis** who said she liked our website!
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/wework_2018.jpg)
 
 *   Hera spoke at **[Filanthropy’s 5 year bash](https://twitter.com/ChaynHQ/status/1062017189841113088)** about our incredible journey from raising a little over £700 at their event to now running multiple projects.
 
 *   Dina Julietta [spoke](https://twitter.com/CentreHubertine/status/1064806521845018624) at the Les Cyberviolences Sexistes Et Sexuelles – Nouvelles Données Et Nouveaux Défis about our DIY online safety guide in Paris
 
 **Press**
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/press_2018.jpg)
 
 Off the back of our stellar award season, we’ve had some great coverage from the international media. Press attention is crucial in raising awareness of domestic violence and plays a key part in expanding Chayn’s outreach to survivors.
 
@@ -122,7 +122,7 @@ We love working with partners on the ground (and on the web) to move the needle 
 This year, Chayn partnered with [Centre Hubertine Auclert](https://www.centre-hubertine-auclert.fr/) who translated the advanced DIY Online Safety guide and launched it! We also worked with [Spektrum](https://feministspectrum.org/) on translating and updating the Farsi version of our [DIY Online Safety](https://chayn.co/safety/) resource and [How to Build Your Own Domestic Violence Case Without A Lawyer](https://chayn.co/how-to-build-your-own-case/). We loved working with [Founders and Coders](https://foundersandcoders.com/) students to build and launch Little Window, our cat chatbot that has had more than 500 conversations so far.
 
 **Blogs**
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/blogs_2018.png)
 
 Although blogging has lost some ground due to the social media pattern of short forms for disseminating a message, in Chayn we believe that blog posts and social media can amicably coexist and be complementary. The issues Chayn focuses on, deserve undeniably a longer and more in-depth analysis and thanks to our volunteers listed below, we managed to host a few interesting blog pieces.
 
@@ -164,7 +164,7 @@ We found that often women had very short windows of opportunity when their partn
 Since the launch we have been working on updating and improving our cat chatbot. Naturally, we asked and received insightful feedback from developers, designers, and users in order to improve our chatbot. In response to feedback, one of the changes will be making for the little window available in more languages. So far, Little Window has had more than 500 conversations, generating more than 5000 interactions.
 
 **Getting better and moving on**
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/gbmo2018.png)
 
 Our new mental health guide, “[Getting better and moving on](https://www.gettingbetter.chayn.co)” ([launched](gettingbetter.chayn.co) in April 2019) was researched and written in 2018. It was our largest research project this year. Mental health and wellbeing is something that cuts across all our tools and guides but we felt that we needed to do something bigger and more in-depth that helped people to understand what they are experiencing and the steps they can take to get through it.
 
@@ -180,21 +180,21 @@ There have been several challenges with the guide. Firstly, finding professional
 
 We started the year by launching a social media campaign around “feminist new year’s resolutions”. The objective was to give feminists tools, ideas and tips that could be used in daily situations to explain and defend their political and social positions. 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-09%20at%2023.36.18.png)
 
 Like every year, Chayn Italia’s activism was as much offline as it was online. We attended two of the biggest public rallies at the national level. The first one took place on the occasion of the International Women’s Day, on the 8th of March, and the second one on 24th November, when we marched against gender based violence and the government's patriarchal and racist policies. 
 
 One of the key ways Chayn Italia has been able to raise awareness has been through an active social media presence. So this year, we developed a long term strategy to codify this. We paid special attention to how we convey the global reach of the problem, by raising awareness on international news items. In particular, we covered some specific cases of brutal murders such as those of Laura Luelmo in Spain or Marielle Franco in Brazil that had a higher impact and reach, sparking reactions from our audience and community. We also developed online cards with useful information about gender based violence. These cards have helped us increase our audience to more than 6,300 likes and 500,000 impressions. 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-09%20at%2023.36.26.png)
 
 We also organised a social media campaign about sexual consent. This campaign explained how rape, sexual assault, and sexual abuse can have different legal definitions and are different forms of violence.
 
-![]()
-
 Another important activity of 2018 was the promotion of [DIY Online safety guide](https://chayn.gitbook.io/basic-diy-online-privacy/it/summary). When women are not familiar with Internet safety fundamentals, the risks they face increase significantly. Through a specific social media campaign we’ve promoted this tool that teaches users the best practices and behaviours to hide their tracks on email, browsers, Facebook and other platforms.
 
-One of our highlights of the year was publishing in-depth research on psychological violence (see [here](http://chaynitalia.org/violenza-psicologica/)). The research work started in 2017 to help women recognize this form of abuse, which despite being most common, is grossly underestimated. These guidelines make it easy to distinguish healthy conflict from abuse in a relationship. We also explained the effects of psychological abuse, why leaving the abusive partner could _feel and be_ difficult and where to start if someone wants to start their journey of recovery.
+
+One of our highlights of the year was publishing in-depth research on psychological violence (see [here](http://chaynitalia.org/violenza-psicologica/)). The research work started in 2017 to help women recognize this form of abuse, which despite being most common, is grossly underestimated. These guidelines make it easy ![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/questo.png)
+ to distinguish healthy conflict from abuse in a relationship. We also explained the effects of psychological abuse, why leaving the abusive partner could _feel and be_ difficult and where to start if someone wants to start their journey of recovery.
 
 Finally, in 2018 we hosted trainings and projects in cooperation with the Anti Violence Centre Frida Onlus in Barcellona Pozzo di Gotto (Sicily). Notably, from January to March 2018 we organised a 40-hour course under the title: “Operatrice all’ascolto e all’accoglienza”. The course, provided for free to 30 women, aimed at training participants who aspire to become social workers in the field of support to women that have experienced gender-based violence. In April 2018, in cooperation with the same centre, we co-hosted a public event with Graziella Priulla (Italian sociologist) and Maria Rosa Cutrufelli (writer and journalist) about the difficulties of achieving women's freedom. 
 
@@ -202,7 +202,7 @@ Finally, in 2018 we hosted trainings and projects in cooperation with the Anti V
 
 Last year our development team scoped out a plan to bring to life courses that can aid victims of abuse. This was our first project led by a paid team to and this for us is a big change. Our volunteers handled the overall reviewing and vetted all the content and design decisions, the day-to-day tasks were handled by a team leader, four content writers, a UX designer, front-end developer and a backend developer.
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/sm2018.jpg)
 
 We have developed six courses and were able to develop new content that we always wanted to. For instance a course on financial management, stress, confidence and applying for asylum based on gender-based violence. We also scoped how best to deliver the course material. In the end, we prioritised Facebook messenger and email over SMS which would incur a cost to the users. Once the courses were developed, we translated into Arabic and Urdu. While the platform isn’t live yet, we reached out to women living in domestic violence shelters and piloted the courses with them!
 
@@ -214,14 +214,14 @@ We will be launching Soul Medicine in late 2019 and have been awarded further fu
 
 Our expanded team worked with the following guides: Manipulation is Abuse; The Good Friend guide; and How To Build Your Own Case Against Your Abuser Without A Lawyer. They are now available in Portuguese. Here’s what’s amazing about this. Often it takes us a year to get a translation done with volunteer time whereas a golden duo of Juliana and Mariana were able to do this in 2.5 months! 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/gfg2018.png)
 
 **Updating the Good Friend Guide**
 
 We reviewed the initial version of the [Good Friend Guide](https://chayn.gitbook.io/the-good-friend-guide/) that we had remixed from Chayn Italia. We adapted the content to be more intersectional, in particular expanding the reach of the guide from a focus on women, to all those experiencing abuse. We also looked at aligning the information that is shared in other Chayn resources, particularly from our Chayn India and Chayn Pakistan sites. 
 
-## CHALLENGES AND LEARNINGS 
-![]()
+## 4. CHALLENGES AND LEARNINGS 
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/challenges2018.jpg)
 
 **Maintaining an active community**
 
@@ -260,7 +260,7 @@ We also realised that whilst we have considerable reach online,  we needed to te
 Finally, we developed better processes for moving from content ideas within the team to users. More specifically- semantics matter. We were not expecting women to find the word “course” to be overwhelming and feel educational rather than empowering. We’ve since tested out a few words to see what works better.   
 
 **Standing up for our values**
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/EmTech%20Media%20Lab%20_0913_910.JPG)
 
 We responded to a social media post from a frontline organisation about the rights of trans-women to access their support. Our unwavering support for the rights of trans people resulted in a barrage of vitriol from individuals. This forced us to sit down and set out with clarity our position but in doing so it helped to bring our team together about our shared values. 
 

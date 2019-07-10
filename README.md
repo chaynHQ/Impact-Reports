@@ -17,8 +17,6 @@ So, how did we do in 2018?
 
 ## 1. IMPACT NUMBERS
 ![](http://i66.tinypic.com/30df8t1.png)
-![](.gitbook/assets/impact_numbers_2018.png)
-
 
 Across all our platforms and resources, we reached 
 ### 150,000 people, generating more than 500,000 page views. 

@@ -17,7 +17,7 @@ So, how did we do in 2018?
 
 ## 1. IMPACT NUMBERS
 
-![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/impact_numbers_2018.png)
+![](.gitbook/assets/impact_numbers_2018.png)
 
 
 Across all our platforms and resources, we reached 

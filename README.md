@@ -45,7 +45,7 @@ She was nominated as **one of the 100 creative changemakers by The Dots & Square
 In the UK, the Prime Minister awarded Hera her **[Points of Light Award](https://twitter.com/PM4EastRen/status/1024220439277723649)** which recognises outstanding individuals who volunteer to make a difference in their communities. 
 
 We also picked up the **Microsoft Spark Award** at the **Forbes 30 Under 30** event in Amsterdam.
-![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/)![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/forbes_microsoft_Award.png)![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/points-of-light-chaynhq.png)
 
 Specific projects also received recognition in awards ceremonies. **The [Kering Foundation](https://www.facebook.com/chayn/posts/1996017840460083?__tn__=-R)** recognised the contribution of our chatbot project, Little Window, in the fight to end violence against women and girls (see this [video montage](https://www.youtube.com/watch?time_continue=64&v=s_Ob5be8vDQ)). 
 
@@ -148,12 +148,12 @@ Although blogging has lost some ground due to the social media pattern of short 
 
 *   A brave survivor [shares her story](https://www.brit.co/facebook-employee-cyberstalking/) of getting stalked and cites our DIY Online Safety guide. 
 
-## PROJECT UPDATES
+## 3.PROJECT UPDATES
 
 _New projects_
 
 **Little Window** (it’s live on our [website](https://chayn.co/)!) 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/lw2018.gif)
 
 We launched Little Window April 2018, a multilingual chatbot that directs victims and survivors of abuse to the right information. The first was an insight from the 2016 [Tech vs Abuse](https://www.techvsabuse.info/) report which we undertook with Safelives and Snook, commissioned by Comic Relief looking at the use of technology by victims and practitioners in the UK. This resulted in the design challenge of the “15 mins window”. 
 

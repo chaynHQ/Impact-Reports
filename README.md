@@ -16,7 +16,7 @@ We launched three new projects, published our findings from the [Tech vs. Abuse]
 So, how did we do in 2018?
 
 ## 1. IMPACT NUMBERS
-
+![](http://i66.tinypic.com/30df8t1.png)
 ![](.gitbook/assets/impact_numbers_2018.png)
 
 

@@ -153,6 +153,7 @@ Although blogging has lost some ground due to the social media pattern of short 
 _New projects_
 
 **Little Window** (it’s live on our [website](https://chayn.co/)!) 
+
 ![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/lw2018.gif)
 
 We launched Little Window April 2018, a multilingual chatbot that directs victims and survivors of abuse to the right information. The first was an insight from the 2016 [Tech vs Abuse](https://www.techvsabuse.info/) report which we undertook with Safelives and Snook, commissioned by Comic Relief looking at the use of technology by victims and practitioners in the UK. This resulted in the design challenge of the “15 mins window”. 

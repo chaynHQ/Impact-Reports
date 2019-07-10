@@ -180,21 +180,21 @@ There have been several challenges with the guide. Firstly, finding professional
 
 We started the year by launching a social media campaign around “feminist new year’s resolutions”. The objective was to give feminists tools, ideas and tips that could be used in daily situations to explain and defend their political and social positions. 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-09%20at%2023.36.18.png)
 
 Like every year, Chayn Italia’s activism was as much offline as it was online. We attended two of the biggest public rallies at the national level. The first one took place on the occasion of the International Women’s Day, on the 8th of March, and the second one on 24th November, when we marched against gender based violence and the government's patriarchal and racist policies. 
 
 One of the key ways Chayn Italia has been able to raise awareness has been through an active social media presence. So this year, we developed a long term strategy to codify this. We paid special attention to how we convey the global reach of the problem, by raising awareness on international news items. In particular, we covered some specific cases of brutal murders such as those of Laura Luelmo in Spain or Marielle Franco in Brazil that had a higher impact and reach, sparking reactions from our audience and community. We also developed online cards with useful information about gender based violence. These cards have helped us increase our audience to more than 6,300 likes and 500,000 impressions. 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/Screenshot%202019-07-09%20at%2023.36.26.png)
 
 We also organised a social media campaign about sexual consent. This campaign explained how rape, sexual assault, and sexual abuse can have different legal definitions and are different forms of violence.
 
-![]()
-
 Another important activity of 2018 was the promotion of [DIY Online safety guide](https://chayn.gitbook.io/basic-diy-online-privacy/it/summary). When women are not familiar with Internet safety fundamentals, the risks they face increase significantly. Through a specific social media campaign we’ve promoted this tool that teaches users the best practices and behaviours to hide their tracks on email, browsers, Facebook and other platforms.
 
-One of our highlights of the year was publishing in-depth research on psychological violence (see [here](http://chaynitalia.org/violenza-psicologica/)). The research work started in 2017 to help women recognize this form of abuse, which despite being most common, is grossly underestimated. These guidelines make it easy to distinguish healthy conflict from abuse in a relationship. We also explained the effects of psychological abuse, why leaving the abusive partner could _feel and be_ difficult and where to start if someone wants to start their journey of recovery.
+
+One of our highlights of the year was publishing in-depth research on psychological violence (see [here](http://chaynitalia.org/violenza-psicologica/)). The research work started in 2017 to help women recognize this form of abuse, which despite being most common, is grossly underestimated. These guidelines make it easy ![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/questo.png)
+ to distinguish healthy conflict from abuse in a relationship. We also explained the effects of psychological abuse, why leaving the abusive partner could _feel and be_ difficult and where to start if someone wants to start their journey of recovery.
 
 Finally, in 2018 we hosted trainings and projects in cooperation with the Anti Violence Centre Frida Onlus in Barcellona Pozzo di Gotto (Sicily). Notably, from January to March 2018 we organised a 40-hour course under the title: “Operatrice all’ascolto e all’accoglienza”. The course, provided for free to 30 women, aimed at training participants who aspire to become social workers in the field of support to women that have experienced gender-based violence. In April 2018, in cooperation with the same centre, we co-hosted a public event with Graziella Priulla (Italian sociologist) and Maria Rosa Cutrufelli (writer and journalist) about the difficulties of achieving women's freedom. 
 
@@ -202,7 +202,7 @@ Finally, in 2018 we hosted trainings and projects in cooperation with the Anti V
 
 Last year our development team scoped out a plan to bring to life courses that can aid victims of abuse. This was our first project led by a paid team to and this for us is a big change. Our volunteers handled the overall reviewing and vetted all the content and design decisions, the day-to-day tasks were handled by a team leader, four content writers, a UX designer, front-end developer and a backend developer.
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/sm2018.jpg)
 
 We have developed six courses and were able to develop new content that we always wanted to. For instance a course on financial management, stress, confidence and applying for asylum based on gender-based violence. We also scoped how best to deliver the course material. In the end, we prioritised Facebook messenger and email over SMS which would incur a cost to the users. Once the courses were developed, we translated into Arabic and Urdu. While the platform isn’t live yet, we reached out to women living in domestic violence shelters and piloted the courses with them!
 
@@ -214,7 +214,7 @@ We will be launching Soul Medicine in late 2019 and have been awarded further fu
 
 Our expanded team worked with the following guides: Manipulation is Abuse; The Good Friend guide; and How To Build Your Own Case Against Your Abuser Without A Lawyer. They are now available in Portuguese. Here’s what’s amazing about this. Often it takes us a year to get a translation done with volunteer time whereas a golden duo of Juliana and Mariana were able to do this in 2.5 months! 
 
-![]()
+![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/gfg2018.png)
 
 **Updating the Good Friend Guide**
 

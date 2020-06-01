@@ -1,4 +1,5 @@
 # 2019 in a snapshot
+![](.gitbook/assets/2019impactreport.jpg)
 
 Every year, Chayn continues to grow and develop — and 2019 was no different! We launched several new resources and started work on our most ambitious projects yet. We received a great amount of press, applied for numerous grants and sent volunteers around the world to attend conferences and represent.
 
@@ -233,8 +234,8 @@ _###### We released a new guide, saw huge growth in Chyan Italia, put Soul Medic
 
 ### Crowdsourced Guides
 
-
 #### Getting Better and Moving On
+![](.gitbook/assets/gtmo.png)
 
 In 2019, we launched our [Getting Better & Moving On](https://www.gettingbetter.chayn.co/) interactive guide. Heavily researched and written to be encouraging and accessible, the guide was designed and built in the first quarter of the year.
 
@@ -249,39 +250,18 @@ Chayn Italia and [Sketchin](https://www.sketchin.ch/) (a strategic design firm) 
 
 **Training with ActionAid Italia**
 
-
 In September and October 2019, Chayn Italia developed and delivered a training series on online security and domestic violence. Commissioned by [ActionAid](https://www.actionaid.it/) Italy, the series was hosted in Milan with two groups of women’s aid workers. 
 
-
 During the first part of each training, participants explored their  expectations and preconceptions about the relationship between technology and abuse. They also learned about Chayn Italia's approach to combating gender-based violence in Italy. In the second part, participants learned how to use technology to help survivors leave violent relationships and/or connect with services in their area. After a hands-on workshop teaching women’s aid workers how to protect their privacy while using digital devices, the last part of the training discussed the connection between economic violence and new technologies.
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
 
 **Summit 2019 in Abruzzo: A new strategy for Chayn Italia**
 
 In September of 2019, the Chayn Italia team met for a few days to plan objectives for 2020 - 2021. Key outcomes of the Summit and priorities for the upcoming year included: 
-
-
-
 *   Investing in capacity building
 *   Promoting their profile as trainers
 *   Reinforcing their tech capacities
 *   Developing their new website in collaboration with Sketchin
 *   Increasing their presence at the national level
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
 
 **WomenWin**
 
@@ -299,9 +279,8 @@ These are just _some_ of the great things Chayn Italia got up to this year — t
 
 ### Digital Platforms
 
-
 #### Soul Medicine
-
+![](.gitbook/assets/soulmedicine_promo.png)
 After three years of planning, developing and testing, [Soul Medicine](https://soulmedicine.io/) was rolled out to the public in 2019. Chayn prides itself on creating detailed and useful guides. But we know that they can overwhelm some survivors. For those who need shorter content on their own terms, we built [Soul Medicine](https://soulmedicine.io/). It’s a platform that provides free micro-courses (or “pathways”) on key topics that help survivors through their recovery. All users need is a smartphone with an internet connection to get started!
 
 Thanks to a generous grant from Comic Relief, we’ve been able to build this with safety and sustainability in mind, leaning on a mixed team of contractors and volunteers. Written by survivors, each course is broken down into bite-sized and easy-to-follow “notes” all available in English, Urdu and Arabic. The content includes existing Chayn guides and new courses such as dealing with self-confidence and stress. 
@@ -316,23 +295,14 @@ There were _some_ talent highlights on this project: UX students from General As
 
 
 #### YANA
-
 In the UK, one in five women will experience sexual assault during their lifetime. Globally, that number rises to one in three. Unfortunately, not knowing where to go, fear of being judged, and a lack of trust in institutions — especially among migrants — can prevent victims from coming forward and may even push them to withdraw from their communities. This is why we wanted to build YANA, a web companion that supports sexual assault survivors throughout their journey towards recovery — whether they want to report their assault(s) or not. 
 
 Thanks in part to a grant of £25,000 from the Tech to Connect Challenge, YANA came a long way in 2019. We began by co-creating content with survivors and developing certain features like the ability to track and save information related to the assault(s). Although we weren’t able to keep this feature for the MVP (see more in the Challenges & Learnings section), we did make progress on the overall technical architecture. 
 
 ## 4. CHALLENGES AND LEARNINGS
-
-![](.gitbook/assets/challenges2018.jpg)
 ###### We’ve also been forthright about our difficulties (how else can we learn and get better over time?) and this year is no different.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
+![](.gitbook/assets/wavey_v_2-02.png)
 
 **Lacking capacity to do outreach and research simultaneously**
 
@@ -364,9 +334,6 @@ Privacy and confidentiality are so important to Chayn. Many in our community are
 We decided to register as a community-interest company, a form of social enterprise, in the UK as it offered us the flexibility to set up processes before we could make up our mind. Thanks to the pro-bono support from Hogan Lovells, we spent a few months deciding on a structure that represents the values of our community. We consulted with our volunteers, researched other organisations and did multiple versions until we landed on the structure we have right now. You can see our governing documents [here](https://beta.companieshouse.gov.uk/company/11834461).
 
 Here’s the gist:
-
-
-
 *   Our goal is represented in the CIC’s mission. This legally binds our activities to this purpose: The company's activities will be carried on for the benefit of those experiencing gender-based abuse and violence.
 *   _Members are the “owners” of the company._ We chose long-term volunteers of our community. This structure removes and limits the power of the Founder, Hera Hussain because she and we were keen that the project is owned by the collective. Our members are [Elena Silvistrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire) and [Nooreen Khan](https://twitter.com/nooreenmanzoor).
 *   Directors are the officers of the company who are legally responsible to ensure the company continues operations in an ethical and efficient manner. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en) and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en).

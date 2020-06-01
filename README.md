@@ -218,7 +218,7 @@ Four blogs is a few less that we would like, however, in place of blogging we’
 
 ## 3.PROJECT UPDATES
 
-_###### We released a new guide, saw huge growth in Chyan Italia, put Soul Medicine out into the world and made headway with YANA. 
+###### We released a new guide, saw huge growth in Chyan Italia, put Soul Medicine out into the world and made headway with YANA. 
 
 
 ### Crowdsourced Guides

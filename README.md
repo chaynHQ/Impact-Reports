@@ -30,9 +30,6 @@ At Chayn, we like to stay busy! We’re continually supporting a number of proje
 Our guides — built by survivors and edited by experts — are freely available in multiple languages for our friends around the world. Our guides fall into three categories: detecting and handling abuse, legal information and general well-being. 
 
 **Detecting and Handling Abuse**
-
-
-
 *   [Manipulation Is Abuse](https://manipulation.chayn.co/): help identify manipulative situations, find support and leave controlling relationships. 
 *   [The Good Friend Guide](https://chayn.gitbook.io/the-good-friend-guide/): learn how to be a supportive family member or friend to someone experiencing abuse. 
 *   [DIY Online Safety](https://chayn.gitbook.io/diy-online-safety/english): understand how to protect yourself online. 
@@ -81,10 +78,6 @@ Volunteers participate in the projects that interest them most. The Executive Te
 Since we registered as a social enterprise (a community-interest company), a type of non-profit. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en) and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en). Our members are [Elena Silvistrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire) and [Nooreen Khan](https://twitter.com/nooreenmanzoor). We explain this more at the end of the report.
 
 ## 1. IMPACT NUMBERS
-
-![](.gitbook/assets/impact_numbers_2018.png)
-
-![](https://github.com/chaynHQ/Impact-Reports/tree/ce5073abeb2de4221936ae5fcb4a4680c00fea73/.gitbook/assets/impact_numbers_2018.png)
 
 In 2019, across all projects we had **45,384 sessions**, served **41,934 unique visitors** and garnered **106,795 page views**. 
 
@@ -162,8 +155,6 @@ This behind-the-scenes work was critical to our long-term success — and we can
 
 ## 2. HIGHLIGHTS
 
-![](.gitbook/assets/keringfoundation_1.jpg)
-
 ### Picking our favorite moments from 2019 might be the hardest thing we’ve had to do all year (just kidding). Here’s a selection of our most important awards, events, press and blog posts.
 
 
@@ -175,8 +166,6 @@ This behind-the-scenes work was critical to our long-term success — and we can
 ## Events
 
 We attended some awesome events around the world, spoke at impressive panels, and hosted our Soul Medicine’s launch in London. 
-
-
 
 *   Hera was invited to participate in the **[Huxley Summit](https://www.huxleysummit.org/)**’s first-ever **New Voices** program. The event brought together 41 young leaders who are putting unique ideas into action for the benefit of science and society in 2019.
 *   We were absolutely thrilled when [Github chose to promote Chayn](https://github.com/sponsors/chaynHQ) on [Github Sponsors](https://github.com/sponsors/), a newly created fundraising platform that supports the development of open source software. Not only were we one of the first organisations to join the platform, but we also spoke at the online launch event. It was a great opportunity to spread our message, meet some inspiring, like-minded people, and raise funds — more than $500 was pledged to aid our work.
@@ -281,6 +270,7 @@ These are just _some_ of the great things Chayn Italia got up to this year — t
 
 #### Soul Medicine
 ![](.gitbook/assets/soulmedicine_promo.png)
+
 After three years of planning, developing and testing, [Soul Medicine](https://soulmedicine.io/) was rolled out to the public in 2019. Chayn prides itself on creating detailed and useful guides. But we know that they can overwhelm some survivors. For those who need shorter content on their own terms, we built [Soul Medicine](https://soulmedicine.io/). It’s a platform that provides free micro-courses (or “pathways”) on key topics that help survivors through their recovery. All users need is a smartphone with an internet connection to get started!
 
 Thanks to a generous grant from Comic Relief, we’ve been able to build this with safety and sustainability in mind, leaning on a mixed team of contractors and volunteers. Written by survivors, each course is broken down into bite-sized and easy-to-follow “notes” all available in English, Urdu and Arabic. The content includes existing Chayn guides and new courses such as dealing with self-confidence and stress. 
@@ -392,11 +382,9 @@ We also realised that whilst we have considerable reach online, we needed to tes
 
 Finally, we developed better processes for moving from content ideas within the team to users. More specifically- semantics matter. We were not expecting women to find the word “course” to be overwhelming and feel educational rather than empowering. We’ve since tested out a few words to see what works better.
 
-**Standing up for our values** ![](https://github.com/chaynHQ/Impact-Reports/blob/master/assets/EmTech%20Media%20Lab%20_0913_910.JPG)
+**Standing up for our values**
 
 We responded to a social media post from a frontline organisation about the rights of trans-women to access their support. Our unwavering support for the rights of trans people resulted in a barrage of vitriol from individuals and organisations. This forced us to sit down and set out with clarity our position but in doing so it helped to bring our team together about our shared values.
-
-![](.gitbook/assets/emtech-media-lab-_0913_910.JPG)
 
 ## 5. FUNDING
 

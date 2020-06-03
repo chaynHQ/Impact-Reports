@@ -1,23 +1,23 @@
 # 2019 in a snapshot
 ![](.gitbook/assets/2019impactreport.jpg)
 
-Every year, Chayn continues to grow and develop — and 2019 was no different! We launched several new resources and started work on our most ambitious projects yet. We received a great amount of press, applied for numerous grants and sent volunteers around the world to attend conferences and represent.
+Every year, Chayn continues to grow and develop — and 2019 was no different! We launched several new resources and started work on our most ambitious projects yet. We received a great amount of press, applied for numerous grants, and sent volunteers around the world to attend conferences and represent.
 
-In this report, you’ll find information about our organisation — who we are, what we do and how (successfully!) we do it. You’ll find updates on 2019’s biggest events, including the launch of a new guide, _Getting Better & Moving On_, AND huge progress on two of our major tech platforms, Soul Medicine and YANA. This year, we also had the honour of attending a number of incredible events, like the GitHub Universe Conference in San Francisco and The Modern Films / Kering Foundation 16Films16Days festival in London, UK. And top it all off, we left our fiscal sponsor, CIVA, and became a social enterprise!
+In this report, you’ll find information about our organisation — who we are, what we do, and how (successfully!) we do it. You’ll find updates on 2019’s biggest events, including the launch of a new guide, _Getting Better & Moving On_, AND huge progress on two of our major tech platforms, Soul Medicine and YANA. This year, we also had the honour of attending a number of incredible events, like the GitHub Universe Conference in San Francisco and The Modern Films / Kering Foundation 16Films16Days festival in London, UK. And top it all off, we left our fiscal sponsor, CIVA, and became a social enterprise!
 
 Of course, 2019 was not without its challenges. We struggled to prioritize communications and marketing, something we’ve reflected on extensively and are excited to change in 2020. As always, we had trouble finding contractors who were both aligned with our mission and able to reliably complete projects. We’ve had some technical hiccups and, at times, been stretched a little too thin. 
 
-But we’ve also seen incredible growth and financial support. In 2019, Chayn was awarded a total of a little over than £88 000 in grants to fund our various projects. Slowly but surely, we’re making the world a better, safer place for survivors of abuse and the people who love them. 
+But we’ve also seen incredible growth and financial support. In 2019, Chayn was awarded a total of a little over £88 000 in grants to fund our various projects. Slowly but surely, we’re making the world a better, safer place for survivors of abuse and the people who love them. 
 
 ### Chayn
 
-##### Are you reading about Chayn for this first time? This is the right section for you. For friends, skip to the next section, “Highlights”.
+##### Are you reading about Chayn for the first time? This is the right section for you. For friends, skip to the next section: “Highlights”.
 
 Chayn curates and creates intersectional, feminist resources for people impacted by gender-based violence. A non-profit organisation, our mission is to support and empower survivors through smart, accessible technology. 
 
 Our approach is:
 
-*   **Survivor cented**. Our work focuses on addressing the unfulfilled needs of survivors. We build resources with, rather than for, our community, and offer judgement-free support at every stage of a person’s journey. 
+*   **Survivor centered**. Our work focuses on addressing the unfulfilled needs of survivors. We build resources with, rather than for, our community, and offer judgement-free support at every stage of a person’s journey. 
 *   **Volunteer led**. Our organisation relies heavily on a corps of highly motivated, passionate individuals who generously donate their time and knowledge.
 *   **Project based**. Our contributors work collaboratively, bringing their diverse skills to specific projects rather than siloed teams. 
 
@@ -27,10 +27,10 @@ At Chayn, we like to stay busy! We’re continually supporting a number of proje
 
 ###### Easy-to-Follow, Crowdsourced Guides
 
-Our guides — built by survivors and edited by experts — are freely available in multiple languages for our friends around the world. Our guides fall into three categories: detecting and handling abuse, legal information and general well-being. 
+Our guides — built by survivors and edited by experts — are freely available in multiple languages for our friends around the world. Our guides fall into three categories: detecting and handling abuse, legal information, and general well-being. 
 
 **Detecting and Handling Abuse**
-*   [Manipulation Is Abuse](https://manipulation.chayn.co/): help identify manipulative situations, find support and leave controlling relationships. 
+*   [Manipulation Is Abuse](https://manipulation.chayn.co/): help identify manipulative situations, find support, and leave controlling relationships. 
 *   [The Good Friend Guide](https://chayn.gitbook.io/the-good-friend-guide/): learn how to be a supportive family member or friend to someone experiencing abuse. 
 *   [DIY Online Safety](https://chayn.gitbook.io/diy-online-safety/english): understand how to protect yourself online. 
 
@@ -44,7 +44,7 @@ Our guides — built by survivors and edited by experts — are freely available
 
 
 
-*   [Getting Better and Moving On](https://www.gettingbetter.chayn.co/how) (New in 2019!): get familiar with your emotions, read about the experiences of other survivors and seek self (or professional) care.
+*   [Getting Better and Moving On](https://www.gettingbetter.chayn.co/how) (New in 2019!): get familiar with your emotions, read about the experiences of other survivors, and seek self (or professional) care.
 
 
 ###### Local and Community-Specific Networks
@@ -62,7 +62,7 @@ Our digital platforms are comprehensive, interactive spaces where survivors can 
 
 *   [Soul Medicine](https://soulmedicine.io/). Soul Medicine hosts several digital courses designed for survivors of abuse. Broken down into bite-size pieces, each pathway is easy to follow and intended to help survivors on their journey to recovery. Soul Medicine includes all five Chayn guides and three additional courses. 
 *   [Little Window](www.chayn.co). Little Window is a smart search bot that quickly directs Chayn.co visitors to our site’s most relevant information.
-*   YANA (You Are Not Alone). YANA will be the world’s largest collaborative resource for survivors of abuse. From detecting abuse through reporting, trial and ongoing aftercare, YANA compiles vetted information to help survivors during their personal journeys. 
+*   YANA (You Are Not Alone). YANA will be the world’s largest collaborative resource for survivors of abuse. From detecting abuse through reporting, trial, and ongoing aftercare, YANA compiles vetted information to help survivors during their personal journeys. 
 
 
 ###### Team
@@ -75,7 +75,7 @@ Volunteers participate in the projects that interest them most. The Executive Te
 *   [Rosie Maguire](https://twitter.com/_rosiemaguire?lang=en), Partnerships Lead
 *   [Tiffany Lo](https://twitter.com/dev_tiffanylo), Tech Lead
 
-Since we registered as a social enterprise (a community-interest company), a type of non-profit. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en) and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en). Our members are [Elena Silvistrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire) and [Nooreen Khan](https://twitter.com/nooreenmanzoor). We explain this more at the end of the report.
+In February 2019, we registered as a social enterprise (a community-interest company), a type of non-profit. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en) and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en). Our members are [Elena Silvestrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire), and [Nooreen Khan](https://twitter.com/nooreenmanzoor). We explain this more at the end of the report.
 
 ## 1. IMPACT NUMBERS
 
@@ -171,7 +171,7 @@ We attended some awesome events around the world, spoke at impressive panels, an
 *   We were absolutely thrilled when [Github chose to promote Chayn](https://github.com/sponsors/chaynHQ) on [Github Sponsors](https://github.com/sponsors/), a newly created fundraising platform that supports the development of open source software. Not only were we one of the first organisations to join the platform, but we also spoke at the online launch event. It was a great opportunity to spread our message, meet some inspiring, like-minded people, and raise funds — more than $500 was pledged to aid our work.
 *   On October 9th, we [launched Soul Medicine at WeWork](https://www.youtube.com/watch?v=F30mZcDTuNQ) in London. We were honoured that the [Baroness Diana Barran](https://twitter.com/dianabarran), Minister to the Department for Digital, Culture, Media & Sport (DCMS) spoke at the event. Before the Baroness joined the House of Lords and was appointed the Minister for Civil Society for DCMS, she enjoyed an illustrious career in the City. She is the founder of Safelives, an organisation that supports the domestic abuse sector, and one of our favourite partners. The Baroness was one of Chayn’s  first supporters and opened the door for a long and fruitful relationship with Safelives. You can view photos from the launch [here. ](https://drive.google.com/drive/folders/1cTXZHvqgeN8ymdsCp0eRviKav38EGTw5)
 *   Dina was a panelist at the [Hammamet Conference in Tunisia](https://www.britishcouncil.tn/en/hammamet) where this year’s theme was ‘Tech for Good’. She participated in a discussion on embracing tech in the international development community. It was a great opportunity to explain how Chayn puts users at the heart of our digital tools and the importance of working closely with the community to find suitable solutions that address their challenges. 
-*   Alongside actress Thandie Newton, writer-director Alice Winocour and _Doctor Who_ star Jodie Whittaker, Chayn Italia was invited to be part of the judging panel for Modern Films & the Kering Foundation’s [16days16films](https://www.modernfilms.com/16days16films ).  The initiative, a partnership between Eve Gabereau’s Modern Films and the national campaign _UK Says No More_, was a great opportunity to promote Chayn Italia’s incredible work! Hera and Dina represented Chayn Italia at the London screening, where Dina got to present an award for one of the categories. \
+*   Alongside actress Thandie Newton, writer-director Alice Winocour and _Doctor Who_ star Jodie Whittaker, Chayn Italia was invited to be part of the judging panel for Modern Films & the Kering Foundation’s [16days16films](https://www.modernfilms.com/16days16films ).  The initiative, a partnership between Eve Gabereau’s Modern Films and the national campaign _UK Says No More_, was a great opportunity to promote Chayn Italia’s incredible work! Hera and Dina represented Chayn Italia at the London screening, where Dina got to present an award for one of the categories.
 
 *   Tiffany & [Satvika Khera](https://twitter.com/satvikakhera) attended and presented at the GitHub Universe Connect Space event in San Francisco. Between managing a stall where they told open source enthusiasts about Soul Medicine and YANA and participating in a social media panel with [Mala Kumar](https://twitter.com/malaskumar/status/1195058354726436864) from GitHub, they were super busy getting the word out.
 *   [Tiffany](https://twitter.com/dev_tiffanylo) had the privilege of speaking at the United Nations Development Programme’s "Addressing Inequalities through Youth Entrepreneurship" event in New York where she discussed Chayn’s approach to addressing gender inequality (a [UN Sustainable Development Goal](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)).
@@ -179,7 +179,7 @@ We attended some awesome events around the world, spoke at impressive panels, an
 
 ## Press
 
-With all the brilliant events, milestones and launches this year we’ve had some excellent international coverage, from Forbes to The Telegraph. Press coverage of Chayn’s work is essential for expanding our outreach to survivors and raising awareness about domestic violence. 
+With all the brilliant events, milestones, and launches this year we’ve had some excellent international coverage, from Forbes to The Telegraph. Press coverage of Chayn’s work is essential for expanding our outreach to survivors and raising awareness about domestic violence. 
 
 
 Several of Chayn’s own volunteers [spoke anonymously with The Evening Standard](https://www.standard.co.uk/news/uk/how-sexual-assault-survivors-are-building-their-own-support-network-a4293111.html) about their personal inspirations behind our newest project, YANA. “If it had been around [when my assault happened] it would've completely changed my situation”.
@@ -199,7 +199,7 @@ Business Insider wrote an article on fashion houses funding nonprofit organisati
 
 [Tech4Women](https://tech4women.org/f/chayn-using-technology-to-build-a-domestic-abuse-case-without-la?fbclid=IwAR2LWoOdkaiw_Xin00Ho94HZ9nAZ0j4iM6DzQgPQesvzyvIfg5277zZ_VO4), a site dedicated to promoting innovative technologies that make a difference for women, highlighted Chayn as one of their featured resources, promoting the work we’re doing.
 
-We’re thrilled to have been interviewed for articles, had our work discussed, featured and quoted globally and are looking forward to another year of coverage ahead of us!
+We’re thrilled to have been interviewed for articles, had our work discussed, featured, and quoted globally and are looking forward to another year of coverage ahead of us!
 
 
 ## Blogs
@@ -210,15 +210,15 @@ We started the year with ‘[Getting better and moving on - how we designed an i
 
 Next was a reflection on ‘[What we learned from trying mental health apps for abuse survivors](https://medium.com/hack-for-chayn/what-we-learned-from-trying-mental-health-apps-for-abuse-survivors-29eab7b73806)’. In this blog, we examined the apps Whats Up and Daylio over a number of weeks, weighing the pros and cons of their features and structures. Whilst we loved the apps’ prompts and the structure they brought to the day, the majority of features were only available to Premium users. More problematically, the information provided was not specific to mental health issues arising from sexual or physical abuse. We concluded that “the benefit of mental health apps is incredibly subjective” and recommended that people see what works for them. At the end of the day, if there’s an app that helps you with your recovery, then that’s good news!
 
-Our next two posts were written by Hera. The [first](https://medium.com/hack-for-chayn/chayn-is-building-the-largest-global-collaborative-resource-for-survivors-of-sexual-assault-7b6ea4fcd93b) announced Chayn’s exciting new venture YANA, an initiative which “will bring together the relevant laws, reporting procedures, contacts of front line services and supportive information for victims and survivors of sexual assault across the globe — under one roof.” The blog outlined how we arrived at the idea, the survivor-based (and led) research that enabled its creation and what we’re planning on doing next. 
+Our next two posts were written by Hera. The [first](https://medium.com/hack-for-chayn/chayn-is-building-the-largest-global-collaborative-resource-for-survivors-of-sexual-assault-7b6ea4fcd93b) announced Chayn’s exciting new venture YANA, an initiative which “will bring together the relevant laws, reporting procedures, contacts of front line services, and supportive information for victims and survivors of sexual assault across the globe — under one roof.” The blog outlined how we arrived at the idea, the survivor-based (and led) research that enabled its creation and what we’re planning on doing next. 
 
-Our [final post](https://medium.com/hack-for-chayn/soul-medicine-chayns-new-digital-service-charting-pathways-to-recovery-for-survivors-8096df032c2) announced the launch of another great Chayn project: Soul Medicine. Hera talked about the process of creating it, its key features, how to design with safety in mind and what’s to come.
+Our [final post](https://medium.com/hack-for-chayn/soul-medicine-chayns-new-digital-service-charting-pathways-to-recovery-for-survivors-8096df032c2) announced the launch of another great Chayn project: Soul Medicine. Hera talked about the process of creating it, its key features, how to design with safety in mind, and what’s to come.
 
 Four blogs is a few less that we would like, however, in place of blogging we’ve begun podcasting! Our podcasts for 2019 —  [How to recognise you’re in a toxic or abusive relationship](https://images.dawn.com/news/1183414?fbclid=IwAR227RqvjcK_XPSp1VVPK-koKmFkLS5TI4CTNSksDecCJ0QaoM-GH_x0G1I) and [7 ways to cope with living in an abusive home (and how to leave)](https://images.dawn.com/news/1183615?fbclid=IwAR01pgrcMan0dZzssjxGwSzg6SkEdI09goefRJRtmCQxoAtaWw9yCf_F0OM) — focused on identifying and escaping an abusive relationship.
 
 ## 3.PROJECT UPDATES
 
-###### We released a new guide, saw huge growth in Chyan Italia, put Soul Medicine out into the world and made headway with YANA. 
+###### We released a new guide, saw huge growth in Chayn Italia, put Soul Medicine out into the world, and made headway with YANA. 
 
 
 ### Crowdsourced Guides
@@ -262,7 +262,7 @@ The new project aims to involve groups of young people aged 13-18 of different g
 
 Chayn Italia participated in the [Libere Project](https://libere-project.eu/en/call-for-solutions/) which looks for technologies, products or prototypes to prevent and fight gender-based violence through the promotion of positive behaviours and social innovation. Chayn Italia proved to be a great fit and the team was delighted to be selected as one of the top 10 ranked technologies in Italy. 
 
-Chayn Italia’s work was displayed as part of a travelling exhibition, the “Caravan”, in Milan and Modena and presented to university and high school students, teachers, parents, local administrators and the general public. The exhibition of innovations was accompanied by a series of activities, seminars and workshops to raise awareness among participants and to work together to build a world free from gender-based violence.
+Chayn Italia’s work was displayed as part of a travelling exhibition, the “Caravan”, in Milan and Modena. It was presented to university and high school students, teachers, parents, local administrators, and the general public. The exhibition of innovations was accompanied by a series of activities, seminars, and workshops to raise awareness among participants and to work together to build a world free from gender-based violence.
 
 These are just _some_ of the great things Chayn Italia got up to this year — they were firing on all cylinders! You can read their full report [here.](https://docs.google.com/document/d/1Lw-qhxh4UoJ9rUZMCUJWGCLQ8CEXvmKjQeUITtlUkg4/edit?fbclid=IwAR0zqi9ZGcDnW4b3rRJVO9F4tDXPsVSTzJVBlSCA-sZMUBe-D4AGAHYdWl8 ) 
 
@@ -273,9 +273,9 @@ These are just _some_ of the great things Chayn Italia got up to this year — t
 
 After three years of planning, developing and testing, [Soul Medicine](https://soulmedicine.io/) was rolled out to the public in 2019. Chayn prides itself on creating detailed and useful guides. But we know that they can overwhelm some survivors. For those who need shorter content on their own terms, we built [Soul Medicine](https://soulmedicine.io/). It’s a platform that provides free micro-courses (or “pathways”) on key topics that help survivors through their recovery. All users need is a smartphone with an internet connection to get started!
 
-Thanks to a generous grant from Comic Relief, we’ve been able to build this with safety and sustainability in mind, leaning on a mixed team of contractors and volunteers. Written by survivors, each course is broken down into bite-sized and easy-to-follow “notes” all available in English, Urdu and Arabic. The content includes existing Chayn guides and new courses such as dealing with self-confidence and stress. 
+Thanks to a generous grant from Comic Relief, we’ve been able to build this with safety and sustainability in mind, leaning on a mixed team of contractors and volunteers. Written by survivors, each course is broken down into bite-sized and easy-to-follow “notes” all available in English, Urdu, and Arabic. The content includes existing Chayn guides and new courses such as dealing with self-confidence and stress. 
 
-Knowing that many women signing up to Soul Medicine may be living in abusive relationships, we wanted to make sure that the pathways could be shared as discreetly as possible. Users can choose their language and customise notification settings so they receive alerts only on the days and times that are safe. There’s even an option to disguise the email’s subject line so users can feel safe receiving notifications in their inbox. 
+Knowing that many women signing up to Soul Medicine may be living in abusive relationships, we wanted to make sure that the pathways could be shared as discreetly as possible. Users can choose their language and customise notification settings so they receive alerts only on the days and times that are safe for them. There’s even an option to disguise the email’s subject line so users can feel safe receiving notifications in their inbox. 
 
 The project has had a really wonderful response from survivors and partners. When we tested the platform with women in shelters, one woman said it was like “a warm hug” and we could not have asked for a better description. This is exactly what we wanted it to be.
 
@@ -300,11 +300,11 @@ At the start of the year, our intention was to focus on reaching more survivors 
 
 For the past few years, we’ve struggled to attract and retain communications and social media volunteers. In 2019, we decided to find paid, part-time communications support. We weren’t able to do that but there’s hope for the future: finding this support is in our goals document and we’re fundraising for it in 2020.
 
-While our communications capacity was low, our technical team was above par. We’ve been fortunate to work with two smart, empathetic and skilled product managers and developers who’ve powered the development behind all our tech products. Having had issues finding good tech fits in 2018, we mean it when we say it was a delight working with them and making them part of our team. 
+While our communications capacity was low, our technical team was above par. We’ve been fortunate to work with two smart, empathetic, and skilled product managers and developers who’ve powered the development behind all our tech products. Having had issues finding good tech fits in 2018, we mean it when we say it was a delight working with them and making them part of our team. 
 
 **Managing two big projects at once**
 
-Following on from our experience in 2018, we continued focusing on running fewer, higher quality projects where we could go deep and ensure consistency with quality and speed. We had two separate project teams and some volunteers floating between both. This worked for us because it kept us focused and productive, reducing volunteer burn out!
+Following on from our experience in 2018, we continued focusing on running fewer, higher quality projects where we could go deep and ensure consistency with quality and speed. We had two separate project teams and some volunteers floating between both. This worked for us because it kept us focused and productive, reducing volunteer burnout!
 
 **Extending executive team terms**
 
@@ -321,20 +321,20 @@ Privacy and confidentiality are so important to Chayn. Many in our community are
 
 **Registering Chayn as a social enterprise (CIC) **
 
-We decided to register as a community-interest company, a form of social enterprise, in the UK as it offered us the flexibility to set up processes before we could make up our mind. Thanks to the pro-bono support from Hogan Lovells, we spent a few months deciding on a structure that represents the values of our community. We consulted with our volunteers, researched other organisations and did multiple versions until we landed on the structure we have right now. You can see our governing documents [here](https://beta.companieshouse.gov.uk/company/11834461).
+We decided to register as a community-interest company, a form of social enterprise, in the UK as it offered us the flexibility to set up processes before we could make up our mind. Thanks to the pro-bono support from Hogan Lovells, we spent a few months deciding on a structure that represents the values of our community. We consulted with our volunteers, researched other organisations, and did multiple versions until we landed on the structure we have right now. You can see our governing documents [here](https://beta.companieshouse.gov.uk/company/11834461).
 
 Here’s the gist:
 *   Our goal is represented in the CIC’s mission. This legally binds our activities to this purpose: The company's activities will be carried on for the benefit of those experiencing gender-based abuse and violence.
-*   _Members are the “owners” of the company._ We chose long-term volunteers of our community. This structure removes and limits the power of the Founder, Hera Hussain because she and we were keen that the project is owned by the collective. Our members are [Elena Silvistrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire) and [Nooreen Khan](https://twitter.com/nooreenmanzoor).
-*   Directors are the officers of the company who are legally responsible to ensure the company continues operations in an ethical and efficient manner. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en) and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en).
+*   _Members are the “owners” of the company._ We chose long-term volunteers of our community. This structure removes and limits the power of the Founder, Hera Hussain, because she and we were keen that the project is owned by the collective. Our members are [Elena Silvestrini ](https://twitter.com/ellesilvestrini?lang=en)(Founder of Chayn Italia), [Rosie Maguire](https://twitter.com/_RosieMaguire) and [Nooreen Khan](https://twitter.com/nooreenmanzoor).
+*   Directors are the officers of the company who are legally responsible to ensure the company continues operations in an ethical and efficient manner. Our directors are Hera, [Dama Sathianathan](https://twitter.com/dama_yanthy?lang=en), and [Leila Hoballah](https://twitter.com/leilahoballah?lang=en).
 
 **Reviewing governance **
 
-Thanks to the WeWork Creator Award we received in 2018, and the support of the Kering Foundation, we embarked on a strategy review with [The Social Investment Consultancy](https://www.tsiconsultancy.com/) (TSIC). Defeating the odds, Chayn has survived all these years — but we know we can do better. We set TSIC two challenges: help us identify a market fit for revenue generation and define an organisational structure that would reflect our values of openness, collaboration and inclusive leadership.
+Thanks to the WeWork Creator Award we received in 2018, and the support of the Kering Foundation, we embarked on a strategy review with [The Social Investment Consultancy](https://www.tsiconsultancy.com/) (TSIC). Defeating the odds, Chayn has survived all these years — but we know we can do better. We set TSIC two challenges: help us identify a market fit for revenue generation and define an organisational structure that would reflect our values of openness, collaboration, and inclusive leadership.
 
 TSIC was able to address some of the challenges we identified around governance. We stressed that their proposed model should be able scale and strike a balance between flexibility and accountability. They looked at models from other global organisations which, like Chayn, embrace openness, including Transparency International, Open Knowledge Foundation and Wikimedia. They considered different models of boards and teams, including [holacracy](https://www.holacracy.org/) and [evolutionary teal ](https://www.strategy-business.com/article/00344?gko=30876)organisations. 
 
-TSIC though YANA and Soul Medicine were the most promising products for potential revenue generation. They also suggested that Chayn offer consulting services, drawing on our expertise at the intersection of survivor-centred design, lived experience, technology and communication. We wanted TSIC to help us identify clients as we found it hard to think about this. They selected the most promising routes and partners for Chayn: working with local authorities, women’s shelters looking to develop tech tools, and international NGOs working on digital security.
+TSIC though YANA and Soul Medicine were the most promising products for potential revenue generation. They also suggested that Chayn offer consulting services, drawing on our expertise at the intersection of survivor-centred design, lived experience, technology, and communication. We wanted TSIC to help us identify clients as we found it hard to think about this. They selected the most promising routes and partners for Chayn: working with local authorities, women’s shelters looking to develop tech tools, and international NGOs working on digital security.
 
 **Google Analytics fail…. again.**
 
@@ -390,10 +390,10 @@ We responded to a social media post from a frontline organisation about the righ
 
 ###### 2019 was a tough year for fundraising. We lost spirit many times but at least we’ve got into the rhythm of writing grant applications now!
 
-This year, we applied for many grants and won four! The first was a grant from Nesta’s “Tech to Connect” challenge, rewarding organisations tackling social isolation in the UK. This £25,000 grant also put us in the running for winning the top challenge of £100,000. Through this grant, we worked on YANA and won the grand prize, too (spoiler for our 2020 Impact Report).  
+This year, we applied for many grants and won four! The first was a grant from Nesta’s “Tech to Connect” challenge, rewarding organisations tackling social isolation in the UK. This £25,000 grant also put us in the running for winning the top challenge of £100,000. Through this grant, we worked on YANA and won the grand prize (spoiler for our 2020 Impact Report).  
 
 
 ##### THANK YOU!
 
-###### That’s it from us. An enormous thank you to our funders, volunteers and the millions of survivors who trust Chayn.co. Big things are coming up in 2020.
+###### That’s it from us. An enormous thank you to our funders, volunteers, and the millions of survivors who trust Chayn.co. Big things are coming up in 2020.
 
